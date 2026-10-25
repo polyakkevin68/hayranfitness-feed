@@ -1967,7 +1967,7 @@ Szintezés: Szintezhető
 Méretek és terhelhetőség
 Súly: 115 kg
 Csomagolt súly: 125 kg
-Maximális terhelhetőség: 120 kg
+Maximális terhelhetőség: 147 kg
 Emelőmotor maximális terhelhetősége: 225 kg
 Összeszerelt méret: 193 × 92 × 152 cm
 Összecsukott méret: 104 × 92 × 178 cm]]></Description>
@@ -1989,7 +1989,7 @@ Emelőmotor maximális terhelhetősége: 225 kg
 		<Attributes>
 			<Attribute>
 				<Attribute_name><![CDATA[Max terhelhetőség]]></Attribute_name>
-				<Attribute_value><![CDATA[120 kg]]></Attribute_value>
+				<Attribute_value><![CDATA[147 kg]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
@@ -4170,7 +4170,7 @@ Bruttó súly: 101 kg
 Egyéb
 Doboz tartalma: Biztonsági kulcs, tápkábel, jack kábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 Garancia
-Váz garancia: 3 év
+Váz garancia: 5 év
 Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/YP-M5.jpg]]></ImageUrl>
@@ -12881,7 +12881,7 @@ Bruttó súly: 100 kg
 Egyéb
 Doboz tartalma: Biztonsági kulcs, tápkábel, jack kábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 Garancia
-Váz garancia: 3 év
+Váz garancia: 5 év
 Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/T501B.jpg]]></ImageUrl>
@@ -13041,7 +13041,7 @@ Bruttó súly: 85 kg
 Egyéb
 Doboz tartalma: Biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 Garancia
-Váz garancia: 3 év
+Váz garancia: 10 év
 Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/GHN3480.jpg]]></ImageUrl>
@@ -13326,11 +13326,13 @@ Csomag mérete 185 x 93 x 42 cm]]></Description>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN5530_altpic_2.jpg]]></ImageUrl3>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN5530_altpic_3.jpg]]></ImageUrl4>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN5530_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>93 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -25310,7 +25312,7 @@ Bruttó súly: 110 kg
 Egyéb
 Doboz tartalma: Biztonsági kulcs, tápkábel, jack kábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 Garancia
-Váz garancia: 3 év
+Váz garancia: 5 év
 Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/YKET2003A.jpg]]></ImageUrl>
@@ -29891,8 +29893,8 @@ Kinomap további lehetőségek: Nevezetességek megjelenítése, eredmények meg
 		<Name><![CDATA[HC HOME FITNESS GHN5480 LED futópad]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/hc-home-fitness-ghn5480-led-futopad-120-kg]]></ProductUrl>
-		<Price>449900</Price>
-		<NetPrice>354252</NetPrice>
+		<Price>549900</Price>
+		<NetPrice>432992</NetPrice>
 		<ProductNumber><![CDATA[GHN5480LED]]></ProductNumber>
 		<EanCode>5999862765453</EanCode>
 		<Description><![CDATA[HC Home Fitness GHN5480 LCD – Megbízható Otthoni Futópad 15% Motoros Dőlésszöggel
@@ -29981,7 +29983,7 @@ Bruttó súly: 85 kg
 Egyéb
 Doboz tartalma: Biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 Garancia
-Váz garancia: 3 év
+Váz garancia: 5 év
 Motor garancia: 5 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/GHN5480LED.jpg]]></ImageUrl>
@@ -34817,7 +34819,7 @@ Doboz tartalma: Biztonsági kulcs, tápkábel, összeszereléshez szükséges cs
 Garancia
 Váz garancia: 10 év
 Motor garancia: 5 év
-Teljes kör]]></Description>
+Teljes kör: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/K9520.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/K9520_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/K9520_altpic_2.jpg]]></ImageUrl3>
@@ -39997,7 +39999,7 @@ Bruttó súly: 84 kg
 Egyéb
 Doboz tartalma: biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató.
 Garancia
-Váz garancia: 36 hónap/3 év
+Váz garancia: 60 hónap/5 év
 Motor garancia: 36 hónap/3 év
 Teljes körű garancia: 36 hónap/3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/kt_sp_2_0.jpg]]></ImageUrl>
