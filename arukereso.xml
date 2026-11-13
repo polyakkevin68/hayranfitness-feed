@@ -435,7 +435,7 @@ Elemek a csomagban: Igen]]></Description>
 		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN201_altpic_7.jpg]]></ImageUrl8>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -625,115 +625,6 @@ Teljes körű garancia: 3 év]]></Description>
 			<Attribute>
 				<Attribute_name><![CDATA[A márka származási helye]]></Attribute_name>
 				<Attribute_value><![CDATA[Magyarország]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[BHF2W]]></Identifier>
-		<Manufacturer><![CDATA[BH Fitness]]></Manufacturer>
-		<Name><![CDATA[BH Fitness F2W Dual futópad]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/BH-Fitness-F2W-Dual-futopad]]></ProductUrl>
-		<Price>174990</Price>
-		<NetPrice>137787</NetPrice>
-		<ProductNumber><![CDATA[BHF2W]]></ProductNumber>
-		<Description><![CDATA[BH Fitness F2W Dual futópad
-A BH Fitness F2W Dual az alap F2 modell szélesebb futófelületű, interaktív edzéslehetőségekkel kiegészített változata. Az 51 cm széles futófelület kényelmesebb mozgást biztosít, a Dual i.Concept technológia pedig változatosabbá teszi az edzést.
-A külön megvásárolható DUAL KIT, egy okostelefon vagy táblagép és Bluetooth-kapcsolat segítségével további interaktív edzéslehetőségek érhetők el. A kompatibilis alkalmazások: BH by Kinomap, Run on Earth, Webathletics, FitConsole és Tread Monitor. Edzés közben az alkalmazásokkal internetet böngészhetsz, üzeneteket és e-maileket nézhetsz, e-könyveket olvashatsz vagy videót játszhatsz le.
-A 1,5 LE folyamatos, 2,75 LE csúcsteljesítményű motor heti 3–7 órás otthoni használatra ajánlott. Az ECO-MODE a leírás szerint átlagosan 25%-kal csökkentheti az energiafogyasztást. A sebesség 1–18 km/h között állítható, a dőlésszög pedig elektromosan, legfeljebb 12%-ig szabályozható.
-A futógép rendszeres karbantartást igényel. A futószalagot használattól függően időszakosan olajozni kell: heti 6 × 1 óra vagy napi 9–10 km használat mellett 2 havonta; heti 6 × 0,5 óra vagy napi 4–5 km mellett 3–4 havonta; kétnaponta 45 perc vagy 6–7 km használat mellett 5–6 havonta. További útmutató az ápolásról és a futópad olajozásáról.
-Termékbemutató videó megtekintése
-Műszaki adatok
-Motor és futófelület
-Motor folyamatos teljesítménye: 1,5 LE
-Motor csúcsteljesítménye: 2,75 LE
-Sebesség: 1–18 km/h
-Dőlésszög: Elektromosan állítható, 0–12%
-Futófelület mérete: 51 × 135 cm
-Ízületkímélő rendszer: Elastboard technológiájú, rezgés- és ütéscsillapító futófelület
-ECO-MODE: A leírás szerint átlagosan 25% energiamegtakarítás; ebben az üzemmódban a futószalag sebessége állandó, a dőlésszög 0°
-Ajánlott használat: Heti 3–7 óra
-Edzésprogramok és kijelző
-Edzésprogramok száma: 12
-Pulzusvezérelt program: Van; a beállított pulzusérték alapján szabályozza az edzés intenzitását
-Kijelző: Kék világítású, 6,8″ LCD
-Kijelzett adatok: Sebesség, dőlésszög, idő, távolság, elégetett kalória és pulzus
-Pulzusmérés: Markolati érzékelőkkel; mellkasi öv külön rendelhető
-Kapcsolat és felszereltség
-Dual i.Concept: Van
-Bluetooth-kapcsolat: Van
-DUAL KIT: Külön vásárolható meg
-Kompatibilis alkalmazások: BH by Kinomap, Run on Earth, Webathletics, FitConsole és Tread Monitor
-Ventilátor: Integrált, nagy teljesítményű
-Összecsukhatóság: Összecsukható
-Méretek, terhelhetőség és garancia
-Maximális felhasználói testsúly: 135 kg
-Tömeg: 86 kg
-Összeszerelt méret: 174 × 78 × 140 cm
-Összecsukott méret: 105 × 78 × 150 cm
-Teljes körű garancia: 12 hónap
-Motor garanciája: 1 év
-Vázszerkezet garanciája: 1 év]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/BHF2W.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BHF2W_altpic_1.jpg]]></ImageUrl2>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>86 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[120 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Max terhelhetőség]]></Attribute_name>
-				<Attribute_value><![CDATA[120 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[51 x 135 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Motor teljesítmény]]></Attribute_name>
-				<Attribute_value><![CDATA[1,5 LE]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
-				<Attribute_value><![CDATA[Elektromos 0-12 %]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Végsebesség]]></Attribute_name>
-				<Attribute_value><![CDATA[18 km/h]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
-				<Attribute_value><![CDATA[12]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[86 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
-				<Attribute_value><![CDATA[Van]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[174 x 78 x 140 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület szélessége]]></Attribute_name>
-				<Attribute_value><![CDATA[51 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület hossza]]></Attribute_name>
-				<Attribute_value><![CDATA[135 cm]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
@@ -1058,7 +949,7 @@ kategória:: S (az ISO EN 20957 szabvány szerint) kereskedelmi használatra.
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>27 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -1303,7 +1194,7 @@ a súlyokat a csomag nem tartalmazza]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>23 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -2095,7 +1986,7 @@ Az ár súlyok nélkül értendő.]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>28 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -2508,7 +2399,7 @@ Bender prés (paddal)]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>33 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -2951,7 +2842,7 @@ a lábtámasz adapter (része a csomagolásnak) használható egy lábfelrúgó 
 		<DeliveryCost><![CDATA[6100 Ft]]></DeliveryCost>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3230,7 +3121,7 @@ S kategória: - kereskedelmi használatra]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>27 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3284,7 +3175,7 @@ Technikai adatok - Ferde pad inSPORTline Ab Crunch Bench:
 		<DeliveryCost><![CDATA[3300 Ft]]></DeliveryCost>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3408,7 +3299,7 @@ A tornával testének ezen részeit erősíti:]]></Description>
 		<DeliveryCost><![CDATA[6600 Ft]]></DeliveryCost>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3611,7 +3502,7 @@ Edzéssel testének ezen részeit erősíti:]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>30 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3656,7 +3547,7 @@ Technikai adatok - Egyenes fekpad inSPORTline LKU11010:
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>17 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -3713,7 +3604,7 @@ Technikai adatok - Egyenes edzőpad inSPORTline X-NT B20:
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>19 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4104,7 +3995,7 @@ Petr Kopřiva InSPORTline edző ajánlásával]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>32 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4229,7 +4120,7 @@ teherbírás:: 150 kg]]></Description>
 		<DeliveryCost><![CDATA[2100 Ft]]></DeliveryCost>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4609,7 +4500,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>41500 g</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4729,7 +4620,7 @@ sima gumiabroncsokkal ajánlott használni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>7 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4835,7 +4726,7 @@ használat: kereskedelmi, otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>61 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -4959,7 +4850,7 @@ használat: kereskedelmi, edzőtermi, profi, otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>60 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -5634,7 +5525,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>15400 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -6203,7 +6094,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>14 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -6374,7 +6265,7 @@ használat: kereskedelmi, otthoni]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>51 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -6493,7 +6384,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>24200 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -6768,7 +6659,7 @@ felhasználás: kereskedelmi]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>71500 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -7820,7 +7711,7 @@ alkalmazás: háztartási]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>20 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -8407,7 +8298,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>58 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -9244,7 +9135,7 @@ használat: háztartási]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>57 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -9453,7 +9344,7 @@ Megjegyzés:: a képen látható, az edzőpadon tárolt fitnesz kiegészítőket
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>12 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -9689,7 +9580,7 @@ felhasználás: kereskedelmi, otthoni]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>111650 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -9857,7 +9748,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>19500 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10172,7 +10063,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>46 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10320,7 +10211,7 @@ a szövegben szereplő fotók illusztrációk]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>5500 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10418,7 +10309,7 @@ Kategória:: H (EN 957) - otthoni használatra]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>41 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10763,7 +10654,7 @@ Súlyok nélkül szállítva.]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>33 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10854,7 +10745,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>33 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -10950,7 +10841,7 @@ otthoni használatra tervezve]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>22 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11163,7 +11054,7 @@ Futófelület: 154 x 55 cm
 Programok: célidő, céltávolság, célkalória, pulzusalapú vezérlés és 36 előre beállított program
 Méret: 171,5 x 85 x 156,5 cm
 Tömeg: 117 kg
-Garancia: 1 év]]></Description>
+Garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/z_tech.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/z_tech_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/z_tech_altpic_2.jpg]]></ImageUrl3>
@@ -11177,7 +11068,7 @@ Garancia: 1 év]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>117 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11819,7 +11710,7 @@ otthoni használatra alkalmas]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>7300 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11908,7 +11799,7 @@ otthoni használatra alkalmas]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>7300 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11996,7 +11887,7 @@ otthoni használatra]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>9 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -12105,7 +11996,7 @@ otthoni használatra alkalmas]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>20 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -12558,7 +12449,7 @@ lábfelrugás]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>151 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -14189,11 +14080,11 @@ Hatásfok: Keringési rendszer: magas; szív: közepes; zsírégetés: magas; iz
 Márka: Kettler
 Garancia: 3 év általános garancia]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/TM2024-100.jpg]]></ImageUrl>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>125 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -14377,11 +14268,11 @@ Garancia: 3 év]]></Description>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/TM2020-100_altpic_4.jpg]]></ImageUrl5>
 		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/TM2020-100_altpic_5.jpg]]></ImageUrl6>
 		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/TM2020-100_altpic_6.jpg]]></ImageUrl7>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>72 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -14465,10 +14356,10 @@ Hatásfok: Keringési rendszer: magas; szív: közepes; zsírégetés: magas; iz
 Márka: Kettler
 Garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/TM2022-100.jpg]]></ImageUrl>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>73 kg</Weight>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -14588,7 +14479,7 @@ Felhasználási környezet: Otthoni-Családi
 Megmozgatott izomcsoportok: Láb
 Hatásfok: Keringési rendszer: magas, Szív: magas, Zsírégetés: közepes, Izomtömeg növelés: alacsony, Izomerő fejlesztés: alacsony
 Márka: Reebok
-Garancia: 2 év általános garancia
+Garancia: 1 év általános garancia
 Link: https://youtu.be/g2KJmh1Xp0U]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/R-10701BK.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/R-10701BK_altpic_1.jpg]]></ImageUrl2>
@@ -14859,7 +14750,7 @@ Gyártói garancia: 2 év]]></Description>
 		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7818673_altpic_5.jpg]]></ImageUrl6>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -15004,7 +14895,7 @@ EAN: 885652034753]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>93 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -15858,7 +15749,7 @@ A 3 hüvelykes LCD kijelző megmutatja a csapásszámot, az időt, a kalóriaada
 Az elemes működés megkönnyíti a gép elhelyezését a lakásban. A manuális terhelésállítással Ön szabályozhatja az edzés intenzitását, és saját ritmusában változtathatja az ellenállást.
 3. Összecsukható kialakítás és könnyebb mozgatás
 A Compact összecsukható kialakítása használaton kívül segíti a helytakarékos tárolást. A szállítókerekek megkönnyítik az áthelyezést, a szintezési lehetőség pedig segít a gép megfelelő beállításában.
-Az evezőgép mérete összeszerelve 161 × 42 × 81 cm, nettó tömege 20,5 kg. A csomagolási méret 132 × 38 × 81 cm, a bruttó tömeg 25,5 kg, így a szállítás és az elhelyezés előre megtervezhető. A HC Home Fitness Compact evezőgépre 2 év teljes körű garancia vonatkozik.
+Az evezőgép mérete összeszerelve 161 × 42 × 81 cm, nettó tömege 20,5 kg. A csomagolási méret 132 × 38 × 81 cm, a bruttó tömeg 25,5 kg, így a szállítás és az elhelyezés előre megtervezhető. A HC Home Fitness Compact evezőgépre 1 év teljes körű garancia vonatkozik.
 Műszaki adatok
 Termékazonosítás
 Márka: HC Home Fitness
@@ -15903,7 +15794,7 @@ Csomagolási méret: 132 × 38 × 81 cm
 Nettó súly: 20,5 kg
 Bruttó súly: 25,5 kg
 Garancia
-Teljes körű garancia: 2 év]]></Description>
+Teljes körű garancia: 1 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/YP-V2.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YP-V2_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YP-V2_altpic_2.jpg]]></ImageUrl3>
@@ -15916,7 +15807,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YP-V2_altpic_9.jpg]]></ImageUrl10>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -16135,7 +16026,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>28 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -16290,8 +16181,8 @@ Bruttó súly: 76 kg
 Egyéb
 Doboz tartalma: biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató.
 Garancia
-Váz garancia: 36 hónap/3 év
-Motor garancia</: 36 hónap/3 év]]></Description>
+Váz garancia: 2 év
+Motor garancia</: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/T4500FN.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4500FN_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4500FN_altpic_2.jpg]]></ImageUrl3>
@@ -16306,7 +16197,7 @@ Motor garancia</: 36 hónap/3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>76 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -17496,7 +17387,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>44500 g</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -17636,7 +17527,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>40600 g</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -17789,7 +17680,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>34600 g</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -18813,7 +18704,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>23 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -18952,7 +18843,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>21800 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -19068,7 +18959,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>21 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -19685,7 +19576,7 @@ használat: otthoni]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>20500 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -19827,7 +19718,7 @@ használat: háztartási]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>21 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -20873,7 +20764,7 @@ vállnyomás ülve]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>161 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -26309,7 +26200,7 @@ TERHELHETŐSÉG
 Felhasználási szintje: Otthoni
 Termék súlya: 34 kg
 GARANCIA
-Teljes körű garancia: 24 hónap/2 év]]></Description>
+Teljes körű garancia: 12 hónap/1 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/HY-80101.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/HY-80101_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/HY-80101_altpic_2.jpg]]></ImageUrl3>
@@ -26322,7 +26213,7 @@ Teljes körű garancia: 24 hónap/2 év]]></Description>
 		<FreeDelivery>0</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>34 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -29876,7 +29767,7 @@ Garancia: 36 hónap]]></Description>
 		<Description><![CDATA[Toorx WLX70 Smith erőkeret leírás
 A Toorx WLX70 Smith erőkeret minőségi kiegészítő az otthon végzett fekvenyomó, guggoló edzésekhez. Minden részlete arról árulkodik, hogy a legnagyobb igénybevételre tervezték. Golyóscsapággyal rendelkező csúszó része miatt a gyakorlatok elvégzése végig könnyed marad, 25mm-es vagy 50mm-es tárcsákkal is használható. A rúd nagy kopásállóságú, krómozott felületű, könnyen rögzíthető 15 különböző magasságban, 57,5-185,5 cm között. A rúd maximális fogási szélessége 106 cm. Az állvány maximális teherbírása 300 kg. Kedvező ár és akció, ha Ön a kiváló Toorx WBX-70 állvány vásárlásában gondolkodik.
 - Állítható magasságú biztonsági rúd rögzítő 15 pozicióban rögzíthető 55-179 cm között.
-A Toorx WLX70 állványra 2 év a garancia.
+A Toorx WLX70 állványra 3 év a garancia.
 A Toorx WLX70 méretei és súlya: Toorx WLX70 mérete összeszerelt állapotban: 196x123x208 cm. Toorx WLX70 önsúlya: 87 kg.
 Műszaki adatok
 Toorx WLX70 Smith erőkeret tulajdonságok
@@ -30433,149 +30324,6 @@ Teljes körű garancia: 2 év]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[ROWER_CUP_PRO]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx Rower Cup Pro evezőgép]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Evezőgép]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-Rower-Cup-Pro-evezogep]]></ProductUrl>
-		<Price>149900</Price>
-		<NetPrice>118031</NetPrice>
-		<ProductNumber><![CDATA[ROWER_CUP_PRO]]></ProductNumber>
-		<Description><![CDATA[Toorx Rower Cup Pro evezőgép leírás
-A közepes intenzítású edzésekhez tervezett Toorx Rower Cup Pro evezőgép modell megnövelt lendkeréksúllyal, motoros terhelésállítással, és kiváló edzésprogramokkal rendelkező fitneszgép otthoni, profi edzéshez.
-Hogyan támogatja az otthoni edzést a Toorx Rower Cup Pro evezőgép?
-Szeretne formába kerülni? Ha igen, akkor a Toorx Rower Active Pro evezőgép a legjobb választás.
-- Az evezést váltazatossá tevő 14 program közül választhatja ki a leginkább megfelelőt. (10 előre beállított program, 4 HRC)
-- A Toorx Rower Cup Pro evezőgép kompakt mérete, könnyű kezelhetősége miatt tökéletes eszköz az otthoni evezésekhez.
-- Az evezőpad modern, dinamikus formavilága mozgásra ösztönöz.
-- Az evezőgép terhelhetősége 110 kg, ami széles felhasználói réteg számára adja meg a lehetőséget, hogy hatékony és eredményes módon sportoljon.
-- Mágnesfék rendszere 16 nehézségi fokozatban állítható, csendesen és egyenletesen működik.
-- LCD kijelzőjén számos adatot az edzés során leolvashatunk, milyen az edzésidő, távolság, csapások száma és az energiafelhasználás.
-- Az evezőgép beépített pulzusszám vevővel rendelkezik, ezért az 5 kHz-en működő mellkasövi pulzuspántok adatait is képes megjeleníteni.
-- A Toorx evezőpad összecsukható, így tárolása gyerekjáték. Kompakt mérete miatt 175-180 cm-es testmagasságig ajánljuk.
-A Toorx Rower Cup Pro evezőgép műszaki tulajdonságai
-- Kijelzőn megjelenített adatok: Edzésidő, csapások száma, csapások/perc, energiafelhasználás, pulzusszám.
-- Fékrendszer: Mágnesfékes. (motoros terhelésállítás)
-- Meghajtó rendszer: Huzalmeghajtás. Az eevezőgép a huzalos meghajtás miatt egyenlete mozgásfolyamatot biztosít.
-- Lendkerék tömege: 5 kg. A realisztikus evezőmozgás tökéletesen biztosított.
-- Ellenállási fokozatok: 16 fokozat.
-- Pulzusmérés: Mellkasövi jeladóval, ami külön rendelhető.
-- Ergonómikus ülés, halk görgőkkel: Kényelmes és halk mozgást eredményez, így lesz az edzés komfortos.
-- Csúszásmentes padlóbiztosító: Intenzív felhasználás mellett is stabilan marad az evezőgép, és a padlót is kíméli.
-- Összecsukható: az evezőgép használat után könnyen összecsukható, így kis helyen is elfér.
-- A felhasználó maximális testtömege: 110 kg.
-- Evezőgép összeszerelt mérete: 162x87x55 cm
-- Evezőgép önsúlya: 21 kg
-- Tanusítványok: TÜV és GS által bevizsgált termék (CE-ROHS-EN957)
-- A Toorx Rower Cup Pro evezőpad garanciája: 24 hónap
-Műszaki adatok
-Toorx Rower Cup Pro evezőgép tulajdonságok
-Cikkszám: ROWER-CUP-PRO
-Gyártó: Toorx
-Típus: Rower Cup Pro
-Felhasználás módja: Otthoni
-Teherbírás: 110
-Hajtásmód: Huzal
-Lendkerék súlya: 5 kg
-Fékrendszer típusa: Mágnesfék
-Ellenállási fokozatok: 16
-Edzésprogramok: 14
-Kijelző típusa: LCD
-Pulzusmérés: Mellkasövi pulzusmérővel ami külön rendelhető.
-Extra funkciók: Összecsukható
-Tápellátás: 230 V V
-Méretek: 162x87x55 cm cm
-Súly: 21 kg
-Garancia: 24 hónap
-TERMÉK AZONOSÍTÁS
-Márka: Toorx
-Modellnév: Rower Cup Pro
-Cikkszám: ROWER_CUP_PRO
-Szín: ----
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-ELLENÁLLÁS & TELJESÍTMÉNY
-Fékrendszer: Huzal
-Ellenállási szintek: 16 fokozat
-Ellenállás állítás: ----
-SÍN HOSSZA & ENERGIAELLTS
-Sín hossza: ----
-Tápellátás: Elemmel működő
-MÉRÉSI FUNKCIÓ
-Mellkasi öv vevő: Van
-KIJELZŐ & PROGRAMRENDSZER
-Kijelző típusa: LCD
-Kijelző méret: ----
-Dönthető képernyő: Nem
-Érintőképernyő: Nem
-Kijelzett adatok: ----
-Beépített programok száma összesen: ----
-MULTIMÉDIA & KAPCSOLAT
-Bluetooth: Nincs
-Tablet/Okostelefon tartó: Nincs
-Applikáció kompatibilitás: Nincs
-KIALAKÍTS
-Összecsukható: Igen, összecsukható
-Szállítókerekek: Van
-Szintezés: Van
-Zajszint: Nagyon halk
-TERHELHETSÉG & AJNLS
-Maximális felhasználói testsúly: 110 kg
-Felhasználói magasság: ----
-MÉRETEK & SÚLY
-Méret (összeszerelve): 162 x 87 x 55 cm
-Méret (összecsukva): ----
-Csomagolási méret: ----
-Nettó súly: 21 kg
-Bruttó súly: ----
-GARANCIA
-Teljes körű garancia: 2 év]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/ROWER_CUP_PRO.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/ROWER_CUP_PRO_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/ROWER_CUP_PRO_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/ROWER_CUP_PRO_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/ROWER_CUP_PRO_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<Warranty>24</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[110 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
-				<Attribute_value><![CDATA[Permanensmágnes]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Fékrendszer]]></Attribute_name>
-				<Attribute_value><![CDATA[Permanens mágnes]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
-				<Attribute_value><![CDATA[16 fokozatú permanent mágnes]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[21 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[OTTHONI]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[RowerActive]]></Identifier>
 		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
 		<Name><![CDATA[Toorx Rower Active evezőgép]]></Name>
@@ -30895,14 +30643,14 @@ Csomagolási méret (H × Sz × M): kb. 120 × 37 × 66 cm
 Nettó tömeg: 40,5 kg
 Bruttó tömeg: 45,8 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/TF-AB.jpg]]></ImageUrl>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>47 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -30950,8 +30698,8 @@ Teljes körű garancia: 3 év]]></Description>
 		<Name><![CDATA[Darwin Evo 40 teremkerékpár]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Darwin-Evo-40-teremkerekpar]]></ProductUrl>
-		<Price>279900</Price>
-		<NetPrice>220394</NetPrice>
+		<Price>199900</Price>
+		<NetPrice>157402</NetPrice>
 		<ProductNumber><![CDATA[DF-SC40]]></ProductNumber>
 		<Description><![CDATA[Darwin Evo 40 – stabil teremkerékpár edzőkomputerrel
 A Darwin Evo 40 teremkerékpár a klasszikus indoor cycling élményt egyszerűen kezelhető LCD-konzollal egészíti ki. A 20 kg-os lendkerék, a csendes szíjhajtás és a masszív, legfeljebb 135 kg-ig terhelhető váz egyenletes hajtást és stabil edzéshelyzetet biztosít otthoni kardió-, állóképességi és intervallumedzésekhez.
@@ -31020,7 +30768,7 @@ Csomagolási méret (H × Sz × M): kb. 116 × 24 × 97 cm
 Nettó tömeg: 50,5 kg
 Bruttó tömeg: 55 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DF-SC40.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DF-SC40_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DF-SC40_altpic_2.jpg]]></ImageUrl3>
@@ -31032,7 +30780,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>62 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -31148,7 +30896,7 @@ Csomagolási méret (H × Sz × M): Kb. 163 × 26 × 65 cm
 Nettó tömeg: 49 kg
 Bruttó tömeg: 54 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DF-RB40.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DF-RB40_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DF-RB40_altpic_2.jpg]]></ImageUrl3>
@@ -31160,7 +30908,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>62 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -34843,7 +34591,7 @@ Kijelző energiaellátása: 2 db 1,5 V-os AAA elem
 Vezeték nélküli érzékelő: 1 db CR2032 elem
 EN 957 besorolás: Igen, a forgalmazói adatlap szerint
 Megadott tanúsítványok: TÜV, GS, RoHS, CE
-Garancia: 3 év általános garancia]]></Description>
+Garancia: 2 év általános garancia]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/K8923.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/K8923_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/K8923_altpic_2.jpg]]></ImageUrl3>
@@ -34852,7 +34600,7 @@ Garancia: 3 év általános garancia]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>66 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -36663,7 +36411,7 @@ Bruttó súly: 56 kg
 EGYÉB
 Doboz tartalma: biztonsági kulcs, tápkábel, jack kábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató
 GARANCIA
-Teljes körű garancia: 2 év]]></Description>
+Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/T12B.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T12B_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T12B_altpic_2.jpg]]></ImageUrl3>
@@ -36675,7 +36423,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>56 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -37354,7 +37102,7 @@ Mérete: 200x100x0,6 cm]]></Description>
 		<ProductNumber><![CDATA[RWX-500]]></ProductNumber>
 		<Description><![CDATA[Toorx RWX 500 evezőgép:
 Toorx RWX-500 evezőgép leírás
-Toorx RWX-500 evezőpad a gyártó legmagasabb minőségű Chronoline szériájának a tagja. Masszivitása, megbízhatósága miatt az RWX-500 két év teljeskörű garanciával rendelkezik. Tökéletes ár/érték aránnyal rendelkező gép az otthoni evezés szerelmeseinek.
+Toorx RWX-500 evezőpad a gyártó legmagasabb minőségű Chronoline szériájának a tagja. Masszivitása, megbízhatósága miatt az RWX-500 három év teljeskörű garanciával rendelkezik. Tökéletes ár/érték aránnyal rendelkező gép az otthoni evezés szerelmeseinek.
 Hogyan támogatja az edzést a Toorx RWX-500 evezőgép?
 A Toorx evezőpadok új csúcstípusa gyönyörű külsővel, és megbízható szerkezettel rendelkezik. A Toorx RWX-500 evezőpad segítségével minden izmot hatékony módon átmozgathat. Az evezéssel az egyik legmagasabb kalóriaégetés érhető el rövid idő alatt.
 - A Toorx RWX-500 evezőgép tökéletes fitneszgép, amelyel nem csak az állóképességét javíthatja, hanem izmait is formálhatja.
@@ -37862,7 +37610,7 @@ A BC68504 ellipszis tréner műszaki adatai
 - A felhasználó maximális testtömege: 120 kg.
 - Elliptikus tréner önsúlya: 63 kg
 - Elliptikus tréner összeszerelt mérete: 146 x 64 x 171 cm
-- Garancia: 36 hónap
+- Garancia: 24 hónap
 Műszaki adatok
 TERMÉK AZONOSÍTÁS
 Márka: HC HOME FITNESS
@@ -38027,7 +37775,7 @@ Csomagolási méret: 98 x 25 56 cm
 Nettó súly: 20.5 kg
 Bruttó súly: 25 kg
 Garancia
-Teljes körű garancia: 2 év]]></Description>
+Teljes körű garancia: 1 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/AW40528.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/AW40528_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/AW40528_altpic_2.jpg]]></ImageUrl3>
@@ -38043,7 +37791,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>25 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -38413,7 +38161,7 @@ A Toorx SPEED MAG Speed Bike szobakerékpár méretei:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>43 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -41482,7 +41230,7 @@ Maximális felhasználói testsúly: 120 kg
 Áramellátás és garancia
 Áramellátás: Hálózati adapter, 12 V / 2 A
 Adapter: Tartozék
-Garancia: 1 év]]></Description>
+Garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DY-AVUS-10225.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DY-AVUS-10225_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DY-AVUS-10225_altpic_2.jpg]]></ImageUrl3>
@@ -41498,7 +41246,7 @@ Garancia: 1 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>36 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -41567,7 +41315,7 @@ Márka: Robust]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>79 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -41995,7 +41743,7 @@ Nettó tömeg: 35,3 kg
 Bruttó tömeg: 39,7 kg
 Biztonsági szabad terület: Legalább 60 cm a gép körül
 GARANCIA
-Teljes körű garancia: 1 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/458_8999.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/458_8999_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/458_8999_altpic_2.jpg]]></ImageUrl3>
@@ -42009,7 +41757,7 @@ Teljes körű garancia: 1 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>35300 g</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -42909,6 +42657,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>1 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -42947,6 +42696,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>2 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -42985,6 +42735,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>3 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43023,6 +42774,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>4 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43061,6 +42813,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>5 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43099,6 +42852,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>6 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43137,6 +42891,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>7 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43175,6 +42930,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>8 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43213,6 +42969,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>9 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43251,6 +43008,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>10 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43289,6 +43047,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>12 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43327,6 +43086,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>14 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43365,6 +43125,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>16 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43403,6 +43164,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>18 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43441,6 +43203,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>20 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43479,6 +43242,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>22 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43517,6 +43281,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>24 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43555,6 +43320,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>26 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43593,6 +43359,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>28 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43631,6 +43398,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>30 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43669,6 +43437,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>32 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43707,6 +43476,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>34 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43745,6 +43515,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>36 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43783,6 +43554,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>38 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43821,6 +43593,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>40 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43859,6 +43632,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>42 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43897,6 +43671,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>44 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43935,6 +43710,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>46 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -43973,6 +43749,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>48 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -44011,6 +43788,7 @@ Poliuretán fix kézisúlyzó 1-50 kg:
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>50 kg</Weight>
+		<Warranty>12</Warranty>
 		<GroupId><![CDATA[DBRG81_50]]></GroupId>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
@@ -46156,7 +45934,7 @@ A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>20 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -46574,7 +46352,7 @@ Megjegyzés: A termék súlytárcsát nem tartalmaz.]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>22 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -46732,7 +46510,7 @@ Megjegyzés: A kép csak illusztráció, a termék a tárcsasúlyokat nem tartal
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>13 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -46771,7 +46549,7 @@ Bevonat: Csúcsminőségű, elektrosztatikusan porszórt bevonat. A kétrétegű
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>22 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -46809,7 +46587,7 @@ A Dumbbell Rack X-SHAPE súlyzótartó állvány 10 pár, 1-10 kg-ig terjedő eg
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>24 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -46848,7 +46626,7 @@ A súlyzótartó állvány a termékpalettánkban szereplő fix kétkezes egyene
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>75 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -47261,7 +47039,7 @@ EAN-kód: 885652026321]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>63 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -47494,7 +47272,7 @@ Kinomap további lehetőségek: Nevezetességek megjelenítése, eredmények meg
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>55 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -47820,7 +47598,6 @@ Doboz tartalma: Biztonsági kulcs, tápkábel, jack kábel, összeszereléshez s
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2001BS_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2001BS_altpic_2.jpg]]></ImageUrl3>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2001BS_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2001BS_altpic_4.jpg]]></ImageUrl5>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
 		<FreeDelivery>1</FreeDelivery>
@@ -48471,7 +48248,7 @@ Csomagolási méret (H × Sz × M): 107 × 26 × 71 cm
 Nettó tömeg: 41 kg
 Bruttó tömeg: 45 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/hoi_ride_plus.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/hoi_ride_plus_altpic_1.jpg]]></ImageUrl2>
 		<DeliveryTime>4 munkanap</DeliveryTime>
@@ -48479,7 +48256,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>45 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -49203,7 +48980,7 @@ Csomagolási méret: 119 x 39 x 65 cm
 Nettó súly: 57 kg
 Bruttó súly: 63 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/hoi_cross.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/hoi_cross_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/hoi_cross_altpic_2.jpg]]></ImageUrl3>
@@ -49214,7 +48991,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>63 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -49744,7 +49521,7 @@ Méret: 145 x 170 x 217 cm
 Bruttó súly: 63 kg
 Méret csomagolva: 213 x 47 x 19 cm
 Nettó súly: 57 kg
-Garancia: 2 év teljes körű
+Garancia: 1 év teljes körű
 Márka: HC HOME FITNESS]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/450_HC.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/450_HC_altpic_1.jpg]]></ImageUrl2>
@@ -49756,7 +49533,7 @@ Márka: HC HOME FITNESS]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>63 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -49804,7 +49581,7 @@ Méret: 92 x 180 x 230 cm
 Bruttó súly: 51 kg
 Méret csomagolva: 142 x 44 x 26.5 cm
 Nettó súly: 47 kg
-Garancia: 2 év teljes körű
+Garancia: 1 év teljes körű
 Márka: HC HOME FITNESS]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/530_HC.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/530_HC_altpic_1.jpg]]></ImageUrl2>
@@ -49821,7 +49598,7 @@ Márka: HC HOME FITNESS]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>51 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -49863,7 +49640,7 @@ Műszaki tulajdonságok
 - A felhasználó maximális testtömege: 160 kg.
 - Kombinált gép összeszerelt mérete: 192 x 170 x 216 cm
 - Kombinált gép önsúllya: 145 kg.
-- A kombinált gép garanciája: 24 hónap
+- A kombinált gép garanciája: 36 hónap
 Műszaki adatok
 Termékadatok
 Méret: 192 x 170 x 216 cm
@@ -49875,14 +49652,14 @@ Egyéb: Erős acélváz, Gumirozott fogantyú
 Felhasználási környezet: Otthoni-Családi
 Megmozgatott izomcsoportok: HátHasVállLábMellKar
 Hatásfok: Keringési rendszer: alacsonySzív: alacsonyZsírégetés: közepesIzomtömeg növelés: magasIzomerő fejlesztés: közepes
-Garancia: 2 év teljes körű
+Garancia: 3 év teljes körű
 Márka: HC HOME FITNESS]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/KHG480_HC.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/KHG480_HC_altpic_1.jpg]]></ImageUrl2>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>145 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -50164,7 +49941,7 @@ Gyártói garancia: 12 hónap
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>72 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -51876,7 +51653,7 @@ Méret: 100 x 69 x 161 cm
 Bruttó súly: 41 kg
 Méret csomagolva: 167 x 78 x 20 cm
 Nettó súly: 37 kg
-Garancia: 2 év teljes körű
+Garancia: 1 év teljes körű
 Márka: Tunturi
 Leírás:
 A Tunturi WT40 nagy szilárdságú acél guggoló állvány, amellyel biztonságosan lehet gyakorlatokat végezni. Az állvány eleje krómozott, hogy megakadályozza a rudak károsodását, könnyen állítható 7 különböző magasságban, 90-150 cm között. Az állvány maximális teherbírása 160 kg.]]></Description>
@@ -54268,7 +54045,7 @@ Csomagolási méret: ----
 Nettó súly: 56 kg
 Bruttó súly: 62 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/17TCR20000.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/17TCR20000_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/17TCR20000_altpic_2.jpg]]></ImageUrl3>
@@ -54281,7 +54058,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>62 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -55152,7 +54929,7 @@ Márka: Robust]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>79 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -55256,7 +55033,7 @@ Teljes körű garancia: 1 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>40 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
@@ -55495,7 +55272,7 @@ Egyéb: Állítható bicepszpad, Beépített lábfejlesztő, Erős acélváz
 Felhasználási környezet: Otthoni-Családi
 Megmozgatott izomcsoportok: Hát, Has, Váll, Láb, Mell, Kar
 Hatásfok: Keringési rendszer: alacsony, Szív: alacsony, Zsírégetés: közepes, Izomtömeg növelés: magas, Izomerő fejlesztés: közepes
-Garancia: 3 év teljes körű
+Garancia: 2 év teljes körű
 Márka: Tunturi]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Tunturi_HG20_fitneszcenter.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Tunturi_HG20_fitneszcenter_altpic_1.jpg]]></ImageUrl2>
@@ -55505,7 +55282,7 @@ Márka: Tunturi]]></Description>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>120 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -55705,7 +55482,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>34 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -55900,7 +55677,7 @@ Csomagolási méret: ----
 Nettó súly: 24 kg
 Bruttó súly: 28 kg
 Garancia
-Teljes körű garancia: 2 év]]></Description>
+Teljes körű garancia: 1 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Robust_Regatta_evezopad.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Robust_Regatta_evezopad_altpic_1.jpg]]></ImageUrl2>
 		<DeliveryTime>4 munkanap</DeliveryTime>
@@ -55908,7 +55685,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>30 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -57198,7 +56975,7 @@ Csomagolási méret: 127 x 45 x 62 cm
 Nettó súly: 57 kg
 Bruttó súly: 64 kg
 GARANCIA
-Teljes körű garancia: 3 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/kettler_200_elliptikus.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/kettler_200_elliptikus_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/kettler_200_elliptikus_altpic_2.jpg]]></ImageUrl3>
@@ -57207,7 +56984,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>64 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -57525,7 +57302,7 @@ Márka: Tunturi]]></Description>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>62 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -57953,7 +57730,7 @@ Csomagolási méret: ----
 Nettó súly: 28 kg
 Bruttó súly: 34 kg
 Garancia
-Teljes körű garancia: 2 év]]></Description>
+Teljes körű garancia: 1 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/robust_navigator_evezopad.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/robust_navigator_evezopad_altpic_1.jpg]]></ImageUrl2>
 		<DeliveryTime>4 munkanap</DeliveryTime>
@@ -57961,7 +57738,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>31 kg</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -59208,20 +58985,20 @@ EN957 besorolás: Van
 Tanúsítványok: TÜV, GS, ROHS, CE
 Motor és teljesítmény
 Motor típusa: DC
-Motor teljesítménye: 2 LE a leírás szerint
+Motor teljesítménye: 2 LE
 Minimális sebesség: 0,8 km/h
-Maximális sebesség: 16 km/h a táblázat szerint; a leírás 16 km/h-t említ
+Maximális sebesség: 16 km/h
 Sebességállítás léptéke: 0,1 km/h
 Ajánlott maximális üzemidő: 1 óra használat, utána 6 óra pihentetés
 Futófelület és mechanika
-Futófelület mérete: 134 × 44 cm a táblázat szerint; a műszaki leírás 140 × 46 cm-t említ
+Futófelület mérete: 134 × 44 cm a táblázat szerint
 Futószalag vastagsága: 1,6 mm
 Ízületkímélés: Fejlett; a leírás háromzónás, szilikonpárnás csillapítást említ
 Dőlésszög típusa: Motoros
 Maximális dőlésszög: 12%
 Programrendszer és mérés
-Programok száma: 49 a táblázat szerint
-Programok bontása: 3 manuális program, 36 beépített program és 3 célprogram a táblázat szerint
+Programok száma: 49
+Programok bontása: 3 manuális program, 36 beépített program és 3 célprogram
 Célprogramok: Idő, távolság, kalória
 Testzsírmérés: Van
 Szünet funkció: Igen
@@ -59238,30 +59015,30 @@ Okos kijelző: Van
 Színes kijelző: Van
 Érintőképernyő: Van
 Kijelzett adatok: Pulzus, kalória, távolság, idő, sebesség és dőlésszög
-Wi-Fi: Van a táblázat szerint
-Bluetooth: A leírás alkalmazáskapcsolatot említ; a táblázatban nincs megadva
-USB-port: Nincs megadva
+Wi-Fi: Van
+Bluetooth: Van
+USB-port: Nincs
 Audio bemenet: Van
 Hangszóró: Van
-Alkalmazás-kompatibilitás: A leírás szerint Bluetooth-alkalmazással összeköthető; a táblázat szerint nincs
+Alkalmazás-kompatibilitás: Igen
 Biztonság és kialakítás
-Összecsukhatóság: A leírás szerint nem összecsukható; a táblázat szerint felhajtható
-Leengedési rendszer: Soft Drop a táblázat szerint
+Összecsukhatóság: Igen
+Leengedési rendszer: Soft Drop
 Szállítókerekek: Vannak
 Szintezés: Nincs
 Biztonsági kulcs: Van
 Hangulatvilágítás: Nincs
 Zajszint: Csendes
 Terhelhetőség, méretek és garancia
-Maximális felhasználói testsúly: 110 kg a táblázat szerint; a marketingleírás 120 kg-ot említ
+Maximális felhasználói testsúly: 120 kg
 Gyaloglásra alkalmas: Igen
 Felhasználási szint: Haladó
 Méret összeszerelve: 168 × 76 × 133 cm
-Méret összecsukva: 76 × 148 cm a táblázat szerint
-Nettó tömeg: 75 kg a táblázat szerint; a műszaki leírás 72 kg-ot említ
+Méret összecsukva: 76 × 148 cm
+Nettó tömeg: 75 kg
 Bruttó tömeg: 87 kg
 Doboz tartalma: Biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok és szerszámok, használati és összeszerelési útmutató
-Alapgarancia: 12 hónap / 1 év
+Alapgarancia: 24 hónap / 2 év
 Garanciabővítés: +1 év: 35 000 Ft; +2 év: 66 000 Ft; +3 év: 97 000 Ft
 Összeszerelés és üzembe helyezés: 19 900 Ft]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/7858183.jpg]]></ImageUrl>
@@ -59275,7 +59052,7 @@ Garanciabővítés: +1 év: 35 000 Ft; +2 év: 66 000 Ft; +3 év: 97 000 Ft
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>75 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -59353,7 +59130,7 @@ Kijelzője mutatja a sebességet, a távolságot, az időt, a pulzusértéket, a
 - Összeszerelt mérete: 183 x 88 x 132 cm
 - Összecsukott mérete: 119 x 88 x 155 cm
 - Tanúsítványok: TÜV és GS által bevizsgált termék (CE-ROHS-EN957)
-- Garancia: 12 hónap
+- Garancia: 36 hónap
 Üzembe helyezés
 Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében.
 A termék összeszerelésének díja 19 900 Ft
@@ -59489,144 +59266,6 @@ Maximális felhasználói testsúly: 135 kg]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[4580540]]></Identifier>
-		<Manufacturer><![CDATA[Opti]]></Manufacturer>
-		<Name><![CDATA[Opti elektromos gyaloglópad_7947881 futópad]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/7947881_futopad]]></ProductUrl>
-		<Price>99900</Price>
-		<NetPrice>78661</NetPrice>
-		<ProductNumber><![CDATA[4580540]]></ProductNumber>
-		<Description><![CDATA[A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
-Opti elektromos gyaloglópad:
-Kis méretű könnyen kezelhető otthoni gyalogló pad. Az LCD-képernyő folyamatosan kijelzi a sebességet, az időt, az elégetett kalóriákat és a megtett távolságot. Ha nem használja könnyen összecsukható a kis méretű tárolás érdekében. Bármilyen fitnesz célt is elérhet, kényelmesen és stílusosan. Ez a futópad tökéletes azok számára, akik otthon szeretnének élvezni az edzést, de nincs helyük nagy eszközök tárolására.
-Bővíthető garancia +1 év 35.000 Ft
-Bővíthető garancia +2 év 66.000 Ft
-Bővíthető garancia +3 év 97.000 Ft
-Üzembe helyezés:
-Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében. Ezeknek a feladatoknak az elvégzése különbözteti meg a webáruházunkat a többi kereskedőtől.
-TERMÉK AZONOSÍTÁS
-Márka: Opti
-Modellnév: elektromos
-Cikkszám: 7947881
-Szín: Fekete
-Típus: Motoros
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-MOTOR & TELJESÍTMÉNY
-Motor típusa: DC
-Motor folyamatos teljesítmény: ----
-Motor csúcsteljesítmény: ----
-Minimális sebesség: 0,8 km/h
-Maximális sebesség: 6 km/h
-Sebességállítás léptéke: 0,1 km/h
-Ajánlott maximális üzemidő: 30 perc használat, utána 6 óra pihentetés
-FUTÓFELÜLET & MECHANIKA
-Futófelület mérete: 102 x 40 cm
-Futószalag vastagsága: 1,6 mm
-Ízületkímélés típusa: Gyenge
-Dőlésszög típusa: Motorikus
-Maximális dőlésszög: 2 %
-PROGRAMRENDSZER
-Beépített programok száma összesen: 1
-Célprogramok: Idő, Távolság, Kalória
-Testzsír mérés: Van
-Szünet funkció: Igen
-Gyorsindítás: Van
-Sebesség gyorsgombok: Igen
-Dőlésszög gyorsgombok: Van
-Kézi vezérlés: Van
-MÉRÉSI FUNKCIÓK
-Pulzusmérés: Van
-Mellkasi öv vevő: Nincs
-Mellkasi öv tartozék: Nem
-KIJELZŐ
-Kijelző típusa: LCD
-Okos kijelző: Nincs
-Kijelző méret: ----
-Színes kijelző: Nem
-Dönthető képernyő: ----
-Érintőképernyő: Nincs
-Kijelzett adatok: Pulzus, Kalória, Távolság, Idő, Sebesség, Dőlésszög
-MULTIMÉDIA & KAPCSOLAT
-Bluetooth: ----
-Wi-Fi: Nincs
-USB port: ----
-Audio bemenet (mp3): ----
-Hangszóró: Van
-Telefon töltő: ----
-Integrált ventilátor: ----
-Tablet/Okostelefon tartó: ----
-Kulacs tartó: ----
-Applikáció kompatibilitás: Nincs
-BIZTONSÁG & KIALAKÍTÁS
-Összecsukható: Igen, felhajtható
-Leengedési rendszer: nincs
-Szállítókerekek: Van
-Szintezés: Nincs
-Biztonsági kulcs: Van
-Hangulat világítás: Nincs
-Zajszint: Csendes
-TERHELHETŐSÉG & AJÁNLÁS
-Maximális felhasználói testsúly: 80 kg
-Gyaloglásra alkalmas: Igen
-Futópad felhasználási szintje: Kezdő
-MÉRETEK & SÚLY
-Méret (összeszerelve): 114 x 83 x 140 cm
-Méret (összecsukva): 66 x 129 cm
-Csomagolási méret: ----
-Nettó súly: 30 kg
-Bruttó súly: 34 kg
-EGYÉB
-Doboz tartalma: biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató.
-GARANCIA
-Váz garancia: 12 hónap/1 év
-Motor garancia: 12 hónap/1 év
-Teljes körű garancia: 12 hónap/1 év]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/4580540.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/4580540_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/4580540_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/4580540_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/4580540_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>34 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Max terhelhetőség]]></Attribute_name>
-				<Attribute_value><![CDATA[80 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[102 x 40 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
-				<Attribute_value><![CDATA[Fix dőlésszög]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
-				<Attribute_value><![CDATA[manuális program]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[34 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[7911439]]></Identifier>
 		<Manufacturer><![CDATA[Opti]]></Manufacturer>
 		<Name><![CDATA[Opti Easy Fold Futópad - Stabilitás és Kényelem Egyben]]></Name>
@@ -59700,7 +59339,7 @@ Felhasználási szint: Haladó
 Nettó súly: 58 kg
 Bruttó súly: 110 kg
 Doboz tartalma: Biztonsági kulcs, tápkábel, szerelési csavarok és szerszámok, használati és összeszerelési útmutató
-Garancia: 1 év]]></Description>
+Garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/7911439.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7911439_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7911439_altpic_2.jpg]]></ImageUrl3>
@@ -59711,7 +59350,7 @@ Garancia: 1 év]]></Description>
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>58 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -59842,7 +59481,7 @@ Nettó tömeg: 28 kg
 Szabad biztonsági terület: Legalább 60 cm a gép körül
 Tápellátás és garancia
 Tápellátás: Hálózati adapter
-Teljes körű garancia: 1 év]]></Description>
+Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/7823792.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7823792_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7823792_altpic_2.jpg]]></ImageUrl3>
@@ -60011,7 +59650,7 @@ Maximális felhasználói testsúly: 140 kg
 Összecsukott méret: 120 × 86 × 163 cm
 Nettó tömeg: 103 kg
 Bruttó tömeg: Nem szerepel a forrásban
-Garancia: 1 év
+Garancia: 3 év
 Összeszerelés és üzembe helyezés: 19 900 Ft]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/300.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/300_altpic_1.jpg]]></ImageUrl2>
@@ -60025,7 +59664,7 @@ Garancia: 1 év
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>103 kg</Weight>
-		<Warranty>12</Warranty>
+		<Warranty>36</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
