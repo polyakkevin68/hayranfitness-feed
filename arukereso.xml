@@ -357,7 +357,7 @@ Teljes körű garancia: 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[GHN201]]></Identifier>
-		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Manufacturer><![CDATA[Marshal Fitness]]></Manufacturer>
 		<Name><![CDATA[Marshal Fitness Spinning]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Fitness-Spinning]]></ProductUrl>
@@ -437,7 +437,7 @@ Elemek a csomagban: Igen]]></Description>
 		<Oversize>0</Oversize>
 		<Warranty>24</Warranty>
 		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
+		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
 				<Attribute_name><![CDATA[Hivatalos importőr]]></Attribute_name>
@@ -10927,7 +10927,7 @@ Link: https://youtu.be/g2KJmh1Xp0U]]></Description>
 		<Identifier><![CDATA[SN_L21_barna]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L21 Masszázsfotel - barna színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L21-Masszazsfotel-barna-szinben]]></ProductUrl>
 		<Price>399900</Price>
 		<NetPrice>314882</NetPrice>
@@ -11405,7 +11405,7 @@ Maximális felhasználói testsúly: 130 kg]]></Description>
 		<Identifier><![CDATA[L66_feher]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - fehér szinben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel-feher-szinben]]></ProductUrl>
 		<Price>1499900</Price>
 		<NetPrice>1181024</NetPrice>
@@ -11545,7 +11545,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<Identifier><![CDATA[L66_barna]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - barna szinben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel-L66-barna]]></ProductUrl>
 		<Price>1499900</Price>
 		<NetPrice>1181024</NetPrice>
@@ -11685,7 +11685,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<Identifier><![CDATA[L66]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - sárga szinben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel]]></ProductUrl>
 		<Price>1499900</Price>
 		<NetPrice>1181024</NetPrice>
@@ -14052,170 +14052,6 @@ használat: otthoni]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[31392]]></Identifier>
-		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
-		<Name><![CDATA[Szobakerékpár inSPORTline ZenRoute 100, innovatív optikai érzékelő, mágneses fékrendszer, precíz ékszíj-meghajtás, sportos kialakítású kormány]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Szobakerekpar-ZenRoute-100-innovativ-optikai-erzek]]></ProductUrl>
-		<Price>161300</Price>
-		<NetPrice>127008</NetPrice>
-		<ProductNumber><![CDATA[31392]]></ProductNumber>
-		<EanCode>8596084213921</EanCode>
-		<Description><![CDATA[Az inSPORTline ZenRoute 100 szobakerékpár minden otthoni tekerést garantáltan egy kellemes, kifejezetten motiváló és eredményes edzéssé varázsol. Rendkívül csendes működést, kényelmes kerékpáros ergonómiát és modern technológiai felszereltséget kínál számodra, amelyeknek köszönhetően az kinti időjárástól függetlenül élvezheted a rendszeres testmozgást. Legfőbb technológiai előnye az az innovatív optikai érzékelő, amely óriási pontossággal méri a pulzusszámodat közvetlenül a kormányon keresztül, így hatékonyan segít jobban szabályozni az edzésed pillanatnyi intenzitását. Ha ehhez hozzátesszük a legnépszerűbb edzésalkalmazások támogatását, a sportos üléspozíciót és a finoman állítható ellenállást, egy olyan megbízható társat kapunk, amelyre minden egyes kerékpározás során bátran támaszkodhatsz.
-Modern technológia, amely precízen figyeli a pulzusodat
-Felejtsd el a hagyományos fémelektródákkal végzett pontatlan vagy ingadozó méréseket! Az inSPORTline ZenRoute 100 szobakerékpár egy modern, közvetlenül a kormányba integrált optikai érzékelővel van felszerelve, erre csak rá kell helyezned az ujjadat, és a rendszer pillanatok alatt rendkívül pontos képet ad a pillanatnyi pulzusodról. Ennek köszönhetően könnyedén fenntarthatod a számodra optimális zsírégető vagy állóképességi edzészónát, hatékonyabban égetheted el a kalóriákat, és gyorsabban fejlesztheted a fizikai kondíciódat. Ha pedig még ennél is részletesebb, folyamatos teljesítménykövetést preferálsz, az edzőgép támogatja a Bluetooth-os mellkasi övek használatát is.
-Csendes tekerés és maximális kényelem
-A mágneses fékrendszer és a precíz ékszíj-meghajtás tökéletes kombinációja biztosítja a hihetetlenül sima, csendes és teljesen természetes haladási élményt, amely sem téged, sem a veled egy háztartásban élőket vagy a szomszédokat nem zavarja. A sportos kialakítású kormány valódi, autentikus kerékpározási élményt nyújt, míg a függőlegesen állítható kormány, valamint a nyereg függőleges és vízszintes finomállítási lehetősége lehetővé teszi, hogy pontosan a saját testalkatodhoz igazodó, ideális üléspozíciót alakíts ki. A szilárd, masszív szerkezet, amely gond nélkül akár 130 kg-os terhelést is elbír, tökéletes biztonságérzetet nyújt minden egyes dinamikus pedálfordulatnál.
-Praktikus felszerelés, amely kellemesebbé teszi a tekerést
-A gép minden apró részletét úgy tervezték meg, hogy a tekerés közben semmi ne vonja el a figyelmedet a sportolás élményéről. Az áttekinthető, könnyen olvasható LCD-kijelzőn minden fontos edzésadat valós időben megjelenik – a sebesség, a megtett idő, a távolság, a percenkénti fordulatszám (RPM), az elégetett kalóriák és a pulzusszám is. Természetesen nem hiányzik a vázról az integrált tablettartó a kedvenc filmjeid vagy edzésvideóid kényelmes nézéséhez, az elmaradhatatlan kulacstartó a folyamatos folyadékpótláshoz, valamint a strapabíró szállítókerekek a szobakerékpár könnyű áthelyezéséhez. A fokozatmentes, manuális terhelésállításnak köszönhetően pedig pillanatok alatt pontosan az aktuális fizikai állapotodhoz és céljaidhoz igazíthatod az nehézségi szintet.
-Indulj el izgalmas virtuális útvonalakra otthonod kényelméből!
-Szeretnéd, ha a napi edzés még szórakoztatóbb és élménydúsabb lenne? Csak csatlakoztasd a szobakerékpárt Bluetooth-on keresztül a FitShow, a Kinomap vagy a Zwift alkalmazásokhoz, és fedezd fel az otthoni kerékpározás teljesen új dimenzióit! A Zwiftben több ezer másik kerékpárossal együtt tekerhetsz látványos virtuális világokban, a Kinomap valós videók segítségével elrepít a világ leghíresebb útjaira és kerékpárútjaira, a FitShow pedig megbízhatóan segít nyomon követni a hosszú távú teljesítményedet és a folyamatos fejlődésedet.
-Mobilalkalmazások
-A gép a beépített Bluetooth-kapcsolaton keresztül könnyedén összekapcsolható a következő edzéstámogató mobilalkalmazásokkal:
-- Zwift ( Android / iOS / Windows / Mac)
-- 3D-környezet és 11 magával ragadó világ, amelyekben az avatárod, a barátaid és más sportolók is mozognak
-- használd a Ride módot (fizetős)
-- Kinomap ( Android / iOS)
-- több ezer előre beállított, valós útvonal, amelyekről videókat játszanak le
-- egyszerű vetítés webböngészőn keresztül távoli képernyőre (számítógép vagy okos TV)
-- a gép típusának kiválasztásakor válaszd az ergométer ikont, gyártóként az inSPORTline-t, modellként pedig a ZenRoute 100-at
-- az alkalmazás fizetős
-- FitShow ( Android / iOS)
-- ingyenes alkalmazás
-A Kinomap alkalmazásban a gép típusának kiválasztásakor válaszd az ergométer ikont, gyártóként jelöld meg az inSPORTline-t, modellként pedig válaszd ki a ZenRoute 100-at (az alkalmazás fizetős).
-Mivel ez a modell manuális ellenállás-állítású, és nem rendelkezik elektronikus terhelésszabályozással, az alkalmazások virtuális útvonalain a szintkülönbségek és emelkedők változása automatikusan nem módosítja a gép pedálozási ellenállását.
-A használat előtt mindig ellenőrizd az adott alkalmazások kompatibilitását a saját mobilkészülékeddel.
-Az alkalmazások megfelelő működéséhez engedélyezd és kapcsold be a WiFi-t, a Bluetooth-t és a GPS-t (helymeghatározást) a telefonodon, valamint engedélyezd az alkalmazás által kért összes jogosultságot. A készüléket kizárólag az alkalmazáson keresztül párosítsd, ne pedig a mobilkészüléked általános Bluetooth-beállításaiban!
-Kérjük, vedd figyelembe, hogy a külön megvásárolható vagy csomagban található mellkasi öv nem kompatibilis a fent említett harmadik féltől származó alkalmazásokkal.
-A beépített Bluetooth kapcsolat nem alkalmas zene vagy egyéb hanganyagok lejátszására, közvetlenül mellkasi övvel vagy fitneszórával való párosításra.
-Az inSPORTline cég nem fejlesztője a felsorolt alkalmazásoknak, így nem vállal felelősséget az alkalmazások esetleges szoftveres hibáiért vagy az operációs rendszerek frissítéseiből adódó összeférhetetlenségekért (azonban bármilyen felmerülő technikai probléma esetén szívesen segítünk).
-A termék főbb jellemzői
-Tökéletesen kiegyensúlyozott, manuális vezérlésű otthoni edzőgép
-Innovatív optikai érzékelő a pulzusszám lényegesen pontosabb méréséhez
-Kifejezetten csendes és sima működés még nagy terhelés mellett is
-A kormány függőleges állítása a kényelmes fogásért
-A nyereg függőleges és vízszintes állítása a tökéletes üléspozícióért
-Optimumra hangolt tehetetlenségi tömeg (lendkerék) a gép elülső részén elhelyezve
-Jól olvasható, áttekinthető kijelző
-Sportos kialakítású kormány a még valósághűbb kerékpározási élményért
-Praktikus tablet-tartó és beépített palackkosár
-- A kijelzőn megjelenő adatok: sebesség, percenkénti fordulatszám (RPM), idő, távolság, össztávolság (ODO), elégetett kalória és pulzusszám
-- Megjegyzés az optikai érzékelőhöz: Az optikai érzékelő használata esetén kérjük, vedd figyelembe, hogy a pontos méréshez szükséges válaszidő körülbelül 10 másodperc. Kérjük, várj türelemmel addig, amíg a kijelzőn meg nem jelennek a stabil, mért pulzusértékek!
-Műszaki adatok
-Technikai adatok:
-a terhelőkerék tömege: 6 kg
-terhelés szabályozása: kézi
-terhelési fokozatok száma: fokozatmentes beállítás
-maximális ellenállás 60 fordulat/percnél: 310 W
-fékrendszer: mágneses
-meghajtás: ékszíj
-szabadonfutó: nincs
-HRC program: igen
-vízszintesen állítható nyereg: igen
-függőlegesen állítható nyereg: igen
-vízszintesen állítható kormány: nem
-függőlegesen állítható kormány: igen
-vészfék: igen
-lendkerék- és szíjvédő burkolat: igen
-palacktartó: igen
-tablet-tartó: igen
-szállítókerék: igen
-talajkiegyenlítő rendszer: igen
-kijelző: igen
-pulzusérzékelők: igen, optikai érzékelő
-mellkasi öv vevőegység: igen, Bluetooth mellkasi övekhez (BT 4.0 és újabb)
-mellkasi öv a csomagban: nem
-a készülék teljes méretei: hosszúság 121 x szélesség 54,6 x magasság 117 cm
-ülésmagasság: 86–106 cm
-a kormány magassága: 108–117 cm
-a kormány és az ülés közötti maximális távolság: 72,6 cm
-a pedálok magassága a talajtól: 14,5 cm
-a pedáltengely magassága a talajtól: 28 cm
-csomag méretei: 106 x 25 x 86 cm
-maximális terhelhetőség: 130 kg
-a felhasználó maximális magassága: 195 cm
-súly: 33,5 kg
-tápellátás: 2 x AAA (mikró ceruzaelem)
-kategória: HC (az EN ISO 20957 szabvány szerint)
-felhasználás: otthoni]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/31392.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/31392_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[6690 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>33500 g</Weight>
-		<Warranty>24</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[130 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
-				<Attribute_value><![CDATA[kézi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Fékrendszer]]></Attribute_name>
-				<Attribute_value><![CDATA[mágneses]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
-				<Attribute_value><![CDATA[fokozatmentes beállítás]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[33,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
-				<Attribute_value><![CDATA[Igen]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[hosszúság 121 x szélesség 54,6 x magasság 117 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[otthoni]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Mérések]]></Attribute_name>
-				<Attribute_value><![CDATA[sebesség, percenkénti fordulatszám (RPM), idő, távolság, össztávolság (ODO), elégetett kalória és pulzusszám]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Termék szélessége összeszerelés után]]></Attribute_name>
-				<Attribute_value><![CDATA[54,6 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Termék hossza összeszerelés után]]></Attribute_name>
-				<Attribute_value><![CDATA[121 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Termék magassága összeszerelés után]]></Attribute_name>
-				<Attribute_value><![CDATA[117 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Doboz mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[106 x 25 x 86 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[11188-2]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Szobakerékpár inSPORTline Klegan fekete-ezüst]]></Name>
@@ -15291,7 +15127,7 @@ Garancia: 2 év teljes körű garancia]]></Description>
 		<Identifier><![CDATA[SN_L21_szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L21 Masszázsfotel - szűrke színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L21-Masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>449900</Price>
 		<NetPrice>354252</NetPrice>
@@ -15448,7 +15284,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<NetPrice>354252</NetPrice>
 		<ProductNumber><![CDATA[GM6105]]></ProductNumber>
 		<EanCode>5999579690284</EanCode>
-		<Description><![CDATA[A life pad nem tartozik a termékhez!
+		<Description><![CDATA[A súlyok, és a pad nem tartozik a termékhez!
 HC Home Fitness GM6105 erőkeret leírás
 A HC Home Fitness GM6105 erőkeret egy masszív, sokoldalúan használható otthoni erősítő állomás, amely ideális választás azok számára, akik komolyabb súlyzós edzéseket szeretnének végezni saját otthonukban. Stabil felépítésének, nagy teherbírásának és többféle edzéslehetőséget kínáló kialakításának köszönhetően kiváló alapja lehet egy teljes értékű otthoni edzőzónának.
 A GM6105 erőkeret segítségével változatos erőfejlesztő gyakorlatok végezhetők, legyen szó guggolásról, fekvenyomásról, húzódzkodásról, felsőtest-erősítésről vagy kiegészítő csigás gyakorlatokról. A 200 x 195 x 225 cm-es méret tágas edzésteret biztosít, miközben a gép otthoni fitneszhelyiségbe vagy kisebb edzőtermi környezetbe is jól beilleszthető.
@@ -16862,7 +16698,7 @@ megjegyzés: a csomagolás nem tartalmaz szilikon olajat]]></Description>
 		<Identifier><![CDATA[26361-3]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel inSPORTline Verceti fekete]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Masszazsfotel-inSPORTline-Verceti-fekete]]></ProductUrl>
 		<Price>217850</Price>
 		<NetPrice>171535</NetPrice>
@@ -16942,7 +16778,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[26361-1]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel inSPORTline Verceti bézs]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Masszazsfotel-inSPORTline-Verceti-bezs]]></ProductUrl>
 		<Price>217850</Price>
 		<NetPrice>171535</NetPrice>
@@ -17022,7 +16858,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[26361-2]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel inSPORTline Verceti barna]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Masszazsfotel-inSPORTline-Verceti-barna]]></ProductUrl>
 		<Price>217850</Price>
 		<NetPrice>171535</NetPrice>
@@ -17102,7 +16938,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[26364-1]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Fidardo, légmasszázs, infra melegítés, 12 párna, 2 fej, 6 masszázstípus, lábtartó, hangvezérlés, Bluetooth zene fekete-szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/spd/26364-1/Masszazsfotel-Fidardo-legmasszazs-infra-melegites]]></ProductUrl>
 		<Price>363160</Price>
 		<NetPrice>285953</NetPrice>
@@ -17197,7 +17033,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[26364-2]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Fidardo, légmasszázs, infra melegítés, 12 párna, 2 fej, 6 masszázstípus, lábtartó, hangvezérlés, Bluetooth zene bézs-barna]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/spd/26364-2/Masszazsfotel-Fidardo-legmasszazs-infra-melegites]]></ProductUrl>
 		<Price>363160</Price>
 		<NetPrice>285953</NetPrice>
@@ -17292,7 +17128,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[26364-3]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Fidardo, légmasszázs, infra melegítés, 12 párna, 2 fej, 6 masszázstípus, lábtartó, hangvezérlés, Bluetooth zene barna]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Masszazsfotel-Fidardo-legmasszazs-infra-melegites]]></ProductUrl>
 		<Price>363160</Price>
 		<NetPrice>285953</NetPrice>
@@ -17387,7 +17223,7 @@ a masszázsfotel nem alkalmas elektronikus implantátummal (pacemaker) rendelkez
 		<Identifier><![CDATA[23662-4]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Carlita, Zero Gravity, Zero Space, légmasszázs, 20 párna, 4 fej, 5 masszázstípus, fűtés, hangvezérlés, automata pozíció szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/spd/23662-4/Masszazsfotel-Carlita-Zero-Gravity-Zero-Space-legm]]></ProductUrl>
 		<Price>512890</Price>
 		<NetPrice>403850</NetPrice>
@@ -17496,7 +17332,7 @@ Technikai adatok - Masszázsfotel inSPORTline Carlita:
 		<Identifier><![CDATA[23662-2]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Carlita, Zero Gravity, Zero Space, légmasszázs, 20 párna, 4 fej, 5 masszázstípus, fűtés, hangvezérlés, automata pozíció fekete]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/spd/23662-2/Masszazsfotel-Carlita-Zero-Gravity-Zero-Space-legm]]></ProductUrl>
 		<Price>512890</Price>
 		<NetPrice>403850</NetPrice>
@@ -17605,7 +17441,7 @@ Technikai adatok - Masszázsfotel inSPORTline Carlita:
 		<Identifier><![CDATA[29053-2]]></Identifier>
 		<Manufacturer><![CDATA[inSPORTline]]></Manufacturer>
 		<Name><![CDATA[Masszázsfotel Balsadena, 4d masszázs, légmasszázs, Zero Gravity, Zero Space, 6 masszázstipus, 40 párna, 20 fej, infra melegítés, lábmasszázs bézs]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Masszazsfotel-Balsadena-4d-masszazs-legmasszazs-Ze]]></ProductUrl>
 		<Price>1032620</Price>
 		<NetPrice>813087</NetPrice>
@@ -17776,7 +17612,7 @@ Bruttó súly: 144 kg]]></Description>
 		<Identifier><![CDATA[SN-S9B-vilagos-kek-fejparnakkal]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Világos kék - Fejpárnákkal]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
 		<Price>349900</Price>
 		<NetPrice>275512</NetPrice>
@@ -17925,7 +17761,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9B-sotet-kek]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Sötét kék]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
@@ -18074,7 +17910,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9B-sotet-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Sötét szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
@@ -18223,7 +18059,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_szurke-sotet-kek]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Sötét kék]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
@@ -18372,7 +18208,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_szurke-vilagos-kek-fejparnakkal]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Világos kék - Fejpárnákkal]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
@@ -18521,7 +18357,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_szurke-sotet-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Sötét szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
@@ -18670,7 +18506,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_sotetkek-sotet-kek]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Sötét kék]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
 		<Price>274900</Price>
 		<NetPrice>216457</NetPrice>
@@ -18819,7 +18655,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_sotetkek-sotet-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Sötét szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
 		<Price>274900</Price>
 		<NetPrice>216457</NetPrice>
@@ -18968,7 +18804,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-S9C_sotetkek-vilagos-kek-fejparnakkal]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Világos kék - Fejpárnákkal]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
@@ -19117,7 +18953,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-V8_fekete]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle V8 Masszázsfotel - fekete színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-V8-Masszazsfotel-fekete-szinben]]></ProductUrl>
 		<Price>374900</Price>
 		<NetPrice>295197</NetPrice>
@@ -19269,7 +19105,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_fekete-fekete]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Fekete]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
 		<Price>950000</Price>
 		<NetPrice>748031</NetPrice>
@@ -19428,7 +19264,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_fekete-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
 		<Price>1000000</Price>
 		<NetPrice>787402</NetPrice>
@@ -19587,7 +19423,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_fekete-feher]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Fehér]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
 		<Price>1000000</Price>
 		<NetPrice>787402</NetPrice>
@@ -19746,7 +19582,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_feher-feher]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, Fehér]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
@@ -19904,7 +19740,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_feher-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, Szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
@@ -20062,7 +19898,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50_feher-fekete]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, fekete]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
 		<Price>949900</Price>
 		<NetPrice>747953</NetPrice>
@@ -20220,7 +20056,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L36_fekete]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L36 Masszázsfotel - fekete színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L36-Masszazsfotel-barna-szinben]]></ProductUrl>
 		<Price>1699900</Price>
 		<NetPrice>1338504</NetPrice>
@@ -20376,7 +20212,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L36_barna]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L36 Masszázsfotel - barna színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L36-Masszazsfotel]]></ProductUrl>
 		<Price>899900</Price>
 		<NetPrice>708583</NetPrice>
@@ -20609,7 +20445,7 @@ MÉRETEK:
 		<Identifier><![CDATA[HY-80101]]></Identifier>
 		<Manufacturer><![CDATA[Leziter]]></Manufacturer>
 		<Name><![CDATA[LEZITER Relax manuális fekvőfotel fotelágy]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/LEZITER-Relax-manualis-fekvofotel-fotelagy]]></ProductUrl>
 		<Price>79900</Price>
 		<NetPrice>62913</NetPrice>
@@ -20683,7 +20519,7 @@ Teljes körű garancia: 12 hónap/1 év]]></Description>
 		<Identifier><![CDATA[HY-80102]]></Identifier>
 		<Manufacturer><![CDATA[Leziter]]></Manufacturer>
 		<Name><![CDATA[Relaxa elektromos ringató és forgatható masszázsfotel]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/LEZITER-Relaxa-elektromos-ringato-es-forgathato-ma]]></ProductUrl>
 		<Price>129900</Price>
 		<NetPrice>102283</NetPrice>
@@ -20746,62 +20582,6 @@ Teherbírás: 135 kg]]></Description>
 				<Attribute_name><![CDATA[Súly]]></Attribute_name>
 				<Attribute_value><![CDATA[43,5 kg]]></Attribute_value>
 			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[allvany]]></Identifier>
-		<Name><![CDATA[Falra szerelhető húzodzkodó tolódzkodó állvány]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Egyéb fitnesz eszköz]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Falra-szerelheto-huzodzkodo-tolodzkodo-allvany]]></ProductUrl>
-		<Price>12000</Price>
-		<NetPrice>9449</NetPrice>
-		<ProductNumber><![CDATA[allvany]]></ProductNumber>
-		<Description><![CDATA[CSAK SZEMÉLYESEN MEGVÁSÁROLHATÓ TERMÉK!
-Szombaton is egész nap nyitva vagyunk!
-Falra szerelhető húzodzkodó tolódzkodó állvány
-– Nagy teherbírású porszórt acél.
-– Méretei: magasság: 215 cm, szélesség: 65 cm, mélység: 70 cm.
-– Súlya: 10 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/allvany.jpg]]></ImageUrl>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[boxallvany]]></Identifier>
-		<Name><![CDATA[Falra szerelhető boksz zsák állvány]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Egyéb fitnesz eszköz]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Falra-szerelheto-boksz-zsak-allvany]]></ProductUrl>
-		<Price>8000</Price>
-		<NetPrice>6299</NetPrice>
-		<ProductNumber><![CDATA[boxallvany]]></ProductNumber>
-		<Description><![CDATA[CSAK SZEMÉLYESEN MEGVÁSÁROLHATÓ TERMÉK!
-Szombaton is egész nap nyitva vagyunk!
-Falra szerelhető boksz zsák állvány
-– Boksz zsák nélkül!
-– Nagy teherbírású porszórt acél.
-– Maximális terhelhetőség (boxzsák súly): 50 kg
-– Méretei: magasság: 215 cm, szélesség: 15 cm, mélység: 60 cm.
-– Súlya: 24 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/boxallvany.jpg]]></ImageUrl>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>24 kg</Weight>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
 				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
@@ -22030,7 +21810,7 @@ GARANCIA]]></Description>
 		<Identifier><![CDATA[L50-szurke]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Szürke]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
@@ -22188,7 +21968,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50-fekete]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Fekete]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
 		<Price>949900</Price>
 		<NetPrice>747953</NetPrice>
@@ -22346,7 +22126,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L50-feher]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Fehér]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
@@ -22504,7 +22284,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[SN-V8]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle V8 Masszázsfotel - szürke szín]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/hc-home-fitness-v8-masszazsfotel]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
@@ -26230,6 +26010,131 @@ Teljes körű garancia: 36 hónap/3 év]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
+		<Identifier><![CDATA[BRX-RCOMPACT]]></Identifier>
+		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
+		<Name><![CDATA[Toorx BRX-R COMPACT szobakerékpár]]></Name>
+		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-BRX-R-COMPACT-szobakerekpar]]></ProductUrl>
+		<Price>75900</Price>
+		<NetPrice>59764</NetPrice>
+		<ProductNumber><![CDATA[BRX-RCOMPACT]]></ProductNumber>
+		<Description><![CDATA[Toorx BRX-R COMPACT szobakerékpár kedvező áron elérhető, összecsukható vázszerkezetű háttámlás szobabicikli a könnyű/közepes intenzítású otthoni edzésekhez.
+Hogyan támogatja a hatékony otthoni edzést a Toorx BRX-R COMPACT szobakerékpár?
+Az TOORX BRX-R COMPACT szobakerékpár tökéletes választás, ha alacsony árkategóriában keres könnyen kezelhető, kis helyigényű, minőségi típust.
+- A kényelmes edzéspozició egyszerűen beállítható a magasságban állítható háttámlával is rendelkező ülésének köszönhetően.
+- A szobakerékpár pedál-ülés távolsága 66-76 cm között változtatható. Csendes dupla szíjas meghajtása 6 kg-os lendkereket hajt meg. Mágnesfékes ellenállása 8 fokozatban állítható.
+- Az edzésadatok egyszerűen leolvashatóak a Toorx szobakerékpár LCD kijelzőjéről.
+- A kapaszkodókarokba integrált pulzusmérő szenzorokat megfogva szívverése pillanatnyi értékéről kap tájékoztatást.
+Az TOORX BRX-R COMPACT szobakerékpár műszaki adatai
+- Lendkeréksúly: 6 kg. A lendkerék a szobakerékpár kiegyensúlyozott, komfortos járását garantálja.
+- Ellenállás: Manuálisan szabályozható 8 fokozatban. A szobabicikli ellenállását a tekerőgombbal növelheti, vagy csökkentheti.
+- Fékrendszer: Mágnesfékes, a legcsendesebb fékrendszer, mivel nincsenek egymással érintkező alkatrészek, és nem igényel karbantartást.
+- LCD kijelző: mutatja az eltelt időt, a sebességet, a megtett távolságot, az elégetett kalória számát és a pulzusszámot.
+- Pulzusmérés: markolati pulzusmérő. A markolati pulzusmérő becsült adatot mutat, mérési pontatlanság előfordulhat.
+- Szállítógörgők: A könnyű mozgathatóságért.
+- A felhasználó maximális testtömege: 100 kg
+- Szobakerékpár önsúlya: 19 kg
+- Szobakerékpár összeszerelt mérete: 107x55x110 cm
+- Garancia: 12 hónap
+Műszaki adatok
+TERMÉK AZONOSÍTÁS
+Márka: Toorx
+Modellnév: BRX-R COMPACT
+Cikkszám: BRX-R65
+Szín: Nincs
+Típus: Szobakerékpár
+Felhasználási kategória: Otthoni
+EN957 besorolás: Van
+Tanúsítványok: TÖV, GS, ROHS, CE
+ELLENÁLLÁS & TELJESÍTMÉNY
+Meghajtás: Permanensmágnes
+Lendkerék súlya: 6 kg
+Ellenállási szintek: 8 fokozatú
+Ellenállás állítás: Manuális
+MÉRÉSI FUNKCIÓ
+Markolati pulzusmérés: Nincs
+Mellkasi öv vevő: Nincs
+KIJELZŐ & PROGRAMRENDSZER
+Kijelző típusa: LCD
+Dönthető képernyő: Nem
+Kijelzett adatok: ----
+Beépített programok száma összesen: ----
+MULTIMÉDIA & KAPCSOLAT
+USB port: Nincs
+Telefon töltő: Nincs
+Bluetooth: Nincs
+Tablet/Okostelefon tartó: Nincs
+Applikáció kompatibilitás: Nincs kompatibilitás
+KIALAKÍTÁS
+Szállítókerekek: Van
+Szintezés: Van
+Állítható ülés: Van
+Állítható markolat: Nincs
+Kulacs tartó: Nincs
+Zajszint: Nincs
+TERHELHETŐSÉG & AJÁNLÁS
+Maximális felhasználói testsúly: 100 kg
+Felhasználási szintje: Nincs
+MÉRETEK & SÚLY
+Méret (összeszerelve): 107 x 55 x 110 cm
+Csomagolási méret: Nincs
+Nettó súly: 19 kg
+Bruttó súly: 20.9 kg
+GARANCIA
+Teljes körű garancia: 1 év]]></Description>
+		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/BRX-RCOMPACT.jpg]]></ImageUrl>
+		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-RCOMPACT_altpic_1.jpg]]></ImageUrl2>
+		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-RCOMPACT_altpic_2.jpg]]></ImageUrl3>
+		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-RCOMPACT_altpic_3.jpg]]></ImageUrl4>
+		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-RCOMPACT_altpic_4.jpg]]></ImageUrl5>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
+		<Oversize>0</Oversize>
+		<Weight>19 kg</Weight>
+		<Warranty>12</Warranty>
+		<BasketDisabled>0</BasketDisabled>
+		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
+		<Attributes>
+			<Attribute>
+				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
+				<Attribute_value><![CDATA[100 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
+				<Attribute_value><![CDATA[Permanensmágnes]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Lendkerék]]></Attribute_name>
+				<Attribute_value><![CDATA[6 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Fékrendszer]]></Attribute_name>
+				<Attribute_value><![CDATA[Permanens mágnes]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Típus]]></Attribute_name>
+				<Attribute_value><![CDATA[Háttámlás]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
+				<Attribute_value><![CDATA[8 fokozatú]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Súly]]></Attribute_name>
+				<Attribute_value><![CDATA[19 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
+				<Attribute_value><![CDATA[Otthoni-Családi]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
+				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+	<Product>
 		<Identifier><![CDATA[ERX-80]]></Identifier>
 		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
 		<Name><![CDATA[Toorx ERX-80 elliptikus tréner]]></Name>
@@ -26886,7 +26791,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<Price>499900</Price>
 		<NetPrice>393622</NetPrice>
 		<ProductNumber><![CDATA[22TRN90000]]></ProductNumber>
-		<Description><![CDATA[Áruházi bemutató darab
+		<Description><![CDATA[Áruházi bemutató darab!
 A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
 Tunturi Endurance T90 futópad
 A Tunturi Performance T90 futópad a Tunturi új 2020-es fejlesztésű futópadjainak jeles képviselője.
@@ -33786,201 +33691,6 @@ Márka: Toorx]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[DGG-TG1-25_25-1-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx 50 mm gumírozott tárcsa, 1,25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-50-mm-gumirozott-tarcsa-125-25-kg]]></ProductUrl>
-		<Price>2500</Price>
-		<NetPrice>1969</NetPrice>
-		<ProductNumber><![CDATA[DGG-TG1-25_25]]></ProductNumber>
-		<Description><![CDATA[Toorx 50 mm gumírozott tárcsa 1,25-25 kg leírás
-Toorx 50 mm gumírozott tárcsa 1,25-25 kg tárcsa súly
-Toorx 50 mm-es fogós gumírozott tárcsa 1,25-25 kg a legjobb szabadsúlyos gyakorlatokért.
-- Használata kényelmes és biztonságos a gumírozott fogantyú kialakítása miatt.
-- A Toorx 50 mm-es gumírozott tárcsa az 50mm-es végű rudakhoz használható.
-- Kényelmes és biztonságos fogást adó gumírozással rendelkezik, ami szagmentes.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DGG-TG1-25_25.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>1250 g</Weight>
-		<GroupId><![CDATA[DGG-TG1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[1,25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DGG-TG1-25_25-2-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx 50 mm gumírozott tárcsa, 2,5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-50-mm-gumirozott-tarcsa-125-25-kg]]></ProductUrl>
-		<Price>4900</Price>
-		<NetPrice>3858</NetPrice>
-		<ProductNumber><![CDATA[DGG-TG1-25_25]]></ProductNumber>
-		<Description><![CDATA[Toorx 50 mm gumírozott tárcsa 1,25-25 kg leírás
-Toorx 50 mm gumírozott tárcsa 1,25-25 kg tárcsa súly
-Toorx 50 mm-es fogós gumírozott tárcsa 1,25-25 kg a legjobb szabadsúlyos gyakorlatokért.
-- Használata kényelmes és biztonságos a gumírozott fogantyú kialakítása miatt.
-- A Toorx 50 mm-es gumírozott tárcsa az 50mm-es végű rudakhoz használható.
-- Kényelmes és biztonságos fogást adó gumírozással rendelkezik, ami szagmentes.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DGG-TG1-25_25.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>2500 g</Weight>
-		<GroupId><![CDATA[DGG-TG1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[2,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DGG-TG1-25_25-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx 50 mm gumírozott tárcsa, 5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-50-mm-gumirozott-tarcsa-125-25-kg]]></ProductUrl>
-		<Price>9900</Price>
-		<NetPrice>7795</NetPrice>
-		<ProductNumber><![CDATA[DGG-TG1-25_25]]></ProductNumber>
-		<Description><![CDATA[Toorx 50 mm gumírozott tárcsa 1,25-25 kg leírás
-Toorx 50 mm gumírozott tárcsa 1,25-25 kg tárcsa súly
-Toorx 50 mm-es fogós gumírozott tárcsa 1,25-25 kg a legjobb szabadsúlyos gyakorlatokért.
-- Használata kényelmes és biztonságos a gumírozott fogantyú kialakítása miatt.
-- A Toorx 50 mm-es gumírozott tárcsa az 50mm-es végű rudakhoz használható.
-- Kényelmes és biztonságos fogást adó gumírozással rendelkezik, ami szagmentes.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DGG-TG1-25_25.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>5 kg</Weight>
-		<GroupId><![CDATA[DGG-TG1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DGG-TG1-25_25-20-kg]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx 50 mm gumírozott tárcsa, 20 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-50-mm-gumirozott-tarcsa-125-25-kg]]></ProductUrl>
-		<Price>39900</Price>
-		<NetPrice>31417</NetPrice>
-		<ProductNumber><![CDATA[DGG-TG1-25_25]]></ProductNumber>
-		<Description><![CDATA[Toorx 50 mm gumírozott tárcsa 1,25-25 kg leírás
-Toorx 50 mm gumírozott tárcsa 1,25-25 kg tárcsa súly
-Toorx 50 mm-es fogós gumírozott tárcsa 1,25-25 kg a legjobb szabadsúlyos gyakorlatokért.
-- Használata kényelmes és biztonságos a gumírozott fogantyú kialakítása miatt.
-- A Toorx 50 mm-es gumírozott tárcsa az 50mm-es végű rudakhoz használható.
-- Kényelmes és biztonságos fogást adó gumírozással rendelkezik, ami szagmentes.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DGG-TG1-25_25.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<GroupId><![CDATA[DGG-TG1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DGG-TG1-25_25-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx 50 mm gumírozott tárcsa, 25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-50-mm-gumirozott-tarcsa-125-25-kg]]></ProductUrl>
-		<Price>49900</Price>
-		<NetPrice>39291</NetPrice>
-		<ProductNumber><![CDATA[DGG-TG1-25_25]]></ProductNumber>
-		<Description><![CDATA[Toorx 50 mm gumírozott tárcsa 1,25-25 kg leírás
-Toorx 50 mm gumírozott tárcsa 1,25-25 kg tárcsa súly
-Toorx 50 mm-es fogós gumírozott tárcsa 1,25-25 kg a legjobb szabadsúlyos gyakorlatokért.
-- Használata kényelmes és biztonságos a gumírozott fogantyú kialakítása miatt.
-- A Toorx 50 mm-es gumírozott tárcsa az 50mm-es végű rudakhoz használható.
-- Kényelmes és biztonságos fogást adó gumírozással rendelkezik, ami szagmentes.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DGG-TG1-25_25.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>25 kg</Weight>
-		<GroupId><![CDATA[DGG-TG1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[YK-CT2301T]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Fitness CT2301 fronthajtásos elliptikus gép]]></Name>
@@ -35732,465 +35442,6 @@ Teljes körű garancia: 3 év]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[50mm_bilincs]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[50 mm-es rudakhoz tárcsarögzítő gyorsbilincs / 1 pár]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Egyéb fitnesz eszköz]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/50-mm-es-rudakhoz-tarcsarogzito-gyorsbilincs-1-par]]></ProductUrl>
-		<Price>4900</Price>
-		<NetPrice>3858</NetPrice>
-		<ProductNumber><![CDATA[50mm_bilincs]]></ProductNumber>
-		<Description><![CDATA[Az 50mm-es rudakhoz gyártott tárcsarögzítő gyorsbilincs segítségével egyszerűen és gyorsan rögzíthetőek a rúdakra helyezett 51mm belső átmérőjű súlytárcsák]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/50mm_bilincs.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>500 g</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DCtarcsa10_25-10-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Színes design tárcsasúly, 10 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Szines-design-tarcsasuly-10-25-kg]]></ProductUrl>
-		<Price>20000</Price>
-		<NetPrice>15748</NetPrice>
-		<ProductNumber><![CDATA[DCtarcsa10_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa súlyonként eltérő színekben(zöld 10kg,sárga 15kg, kék 20kg, piros 25kg). Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DCtarcsa10_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_3.jpg]]></ImageUrl4>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<GroupId><![CDATA[DCtarcsa10_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DCtarcsa10_25-15-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Színes design tárcsasúly, 15 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Szines-design-tarcsasuly-10-25-kg]]></ProductUrl>
-		<Price>30000</Price>
-		<NetPrice>23622</NetPrice>
-		<ProductNumber><![CDATA[DCtarcsa10_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa súlyonként eltérő színekben(zöld 10kg,sárga 15kg, kék 20kg, piros 25kg). Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DCtarcsa10_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_3.jpg]]></ImageUrl4>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>15 kg</Weight>
-		<GroupId><![CDATA[DCtarcsa10_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[15 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DCtarcsa10_25-20-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Színes design tárcsasúly, 20 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Szines-design-tarcsasuly-10-25-kg]]></ProductUrl>
-		<Price>40000</Price>
-		<NetPrice>31496</NetPrice>
-		<ProductNumber><![CDATA[DCtarcsa10_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa súlyonként eltérő színekben(zöld 10kg,sárga 15kg, kék 20kg, piros 25kg). Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DCtarcsa10_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_3.jpg]]></ImageUrl4>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<GroupId><![CDATA[DCtarcsa10_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DCtarcsa10_25-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Színes design tárcsasúly, 25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Szines-design-tarcsasuly-10-25-kg]]></ProductUrl>
-		<Price>50000</Price>
-		<NetPrice>39370</NetPrice>
-		<ProductNumber><![CDATA[DCtarcsa10_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa súlyonként eltérő színekben(zöld 10kg,sárga 15kg, kék 20kg, piros 25kg). Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DCtarcsa10_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DCtarcsa10_25_altpic_3.jpg]]></ImageUrl4>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>25 kg</Weight>
-		<GroupId><![CDATA[DCtarcsa10_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-1-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 1,25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>2250</Price>
-		<NetPrice>1772</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>1250 g</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[1,25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-2-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 2,5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>4500</Price>
-		<NetPrice>3543</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>2500 g</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[2,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>9000</Price>
-		<NetPrice>7087</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>5 kg</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-10-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 10 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>18000</Price>
-		<NetPrice>14173</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-15-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 15 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>27000</Price>
-		<NetPrice>21260</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>15 kg</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[15 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-20-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 20 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>36000</Price>
-		<NetPrice>28346</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[Dtarcsa1-25_25-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[51 mm-es Design tárcsasúly, 25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/51-mm-es-Design-tarcsasuly-125-25-kg]]></ProductUrl>
-		<Price>45000</Price>
-		<NetPrice>35433</NetPrice>
-		<ProductNumber><![CDATA[Dtarcsa1-25_25]]></ProductNumber>
-		<Description><![CDATA[Szögletes peremű 51 mm-es belső furatú gumírozott súlytárcsa fekete színben. Megmarkolható furatokkal ellátott súlytárcsa, mely biztonságosan cserélhető és kompatibilis bármelyik típusú 50 mm-es súlyzórúddal.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/Dtarcsa1-25_25.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/Dtarcsa1-25_25_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>25 kg</Weight>
-		<GroupId><![CDATA[Dtarcsa1-25_25]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[RG92501]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[50 mm-es Super Elastic olimpiai rúd (750 kg teherbírással)]]></Name>
@@ -36257,348 +35508,6 @@ A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
 			<Attribute>
 				<Attribute_name><![CDATA[Méret]]></Attribute_name>
 				<Attribute_value><![CDATA[140 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-1-25-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 1,25 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>2000</Price>
-		<NetPrice>1575</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>1250 g</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[1,25 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-2-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 2,5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>4000</Price>
-		<NetPrice>3150</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>2500 g</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[2,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-5-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 5 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>8000</Price>
-		<NetPrice>6299</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>5 kg</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-10-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 10 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>16000</Price>
-		<NetPrice>12598</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-15-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 15 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>24000</Price>
-		<NetPrice>18898</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>15 kg</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[15 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[tarcsa1-25_20-20-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[31 mm-es Gumis tárcsasúly, 20 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlytárcsa]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/31-mm-es-Gumis-tarcsasuly-125-20-kg]]></ProductUrl>
-		<Price>32000</Price>
-		<NetPrice>25197</NetPrice>
-		<ProductNumber><![CDATA[tarcsa1-25_20]]></ProductNumber>
-		<Description><![CDATA[Kerekített peremű 31 mm-es belső furatú gumírozott súlytárcsa fekete színben. Vastag, speciális eljárással ráégetett gumiréteggel borított fém tárcsa, amely nem csak esztétikus, hanem időtálló is.
-A KÉP CSAK ILLUSZTRÁCIÓ!]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/tarcsa1-25_20.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<GroupId><![CDATA[tarcsa1-25_20]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[FR_160]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[Francia rúd]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Francia-rud]]></ProductUrl>
-		<Price>15900</Price>
-		<NetPrice>12520</NetPrice>
-		<ProductNumber><![CDATA[FR_160]]></ProductNumber>
-		<Description><![CDATA[Francia rúd, krómozott 30 mm-es átmérővel két gumibetétes csillag alakú menetes szorítógyűrűvel. Jól használható bármelyik 31 mm-es belső furatú tárcsával legyen akár gumírozott, akár krómozott. A súlya a 2 db menetes szorítógyűrűvel együtt ~5 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/FR_160.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>5 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[KK_180]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[Kétkezes 180cm-es súlyzórúd]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Ketkezes-180cm-es-sulyzorud]]></ProductUrl>
-		<Price>19900</Price>
-		<NetPrice>15669</NetPrice>
-		<ProductNumber><![CDATA[KK_180]]></ProductNumber>
-		<Description><![CDATA[Kétkezes, 180 cm-es krómozott rúd, 30 mm-es átmérővel két gumibetétes csillag alakú menetes szorítógyűrűvel. Jól használható bármelyik 31 mm-es belső furatú tárcsával legyen akár gumírozott, akár krómozott. A súlya a 2 db menetes szorítógyűrűvel együtt ~6.5 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/KK_180.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>6500 g</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[6,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[180 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[KK_160]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[Kétkezes 160cm-es súlyzórúd]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Ketkezes-160cm-es-sulyzorud]]></ProductUrl>
-		<Price>18900</Price>
-		<NetPrice>14882</NetPrice>
-		<ProductNumber><![CDATA[KK_160]]></ProductNumber>
-		<Description><![CDATA[Kétkezes, 160 cm-es krómozott rúd, 30 mm-es átmérővel két gumibetétes csillag alakú menetes szorítógyűrűvel. Jól használható bármelyik 31 mm-es belső furatú tárcsával legyen akár gumírozott, akár krómozott. A súlya a 2 db menetes szorítógyűrűvel együtt ~5 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/KK_160.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>5 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[160 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[EK_35]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[Egykezes rúd szorítógyűrűvel]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Egykezes-rud-szoritogyuruvel]]></ProductUrl>
-		<Price>5790</Price>
-		<NetPrice>4559</NetPrice>
-		<ProductNumber><![CDATA[EK_35]]></ProductNumber>
-		<Description><![CDATA[Egykezes krómozott rúd, 30 mm-es átmérővel két gumibetétes csillag alakú menetes szorítógyűrűvel. Jól használható bármelyik 31 mm-es belső furatú tárcsával legyen akár gumírozott, akár krómozott. Az egykezes rúd teljes hossza 35 cm, a két végén 10-10 cm-es menetes résszel. A súlya a 2 db menetes szorítógyűrűvel együtt ~2,5 kg.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/EK_35.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>2500 g</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[2,5 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[35 cm]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
@@ -36945,41 +35854,6 @@ A hatszögletű rúd másik nagy előnye, hogy a fogantyúk kicsivel a rúd föl
 			<Attribute>
 				<Attribute_name><![CDATA[Súly]]></Attribute_name>
 				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[120_50_tr]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[50 mm-es tricepsz rúd]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/50-mm-es-tricepsz-rud]]></ProductUrl>
-		<Price>23900</Price>
-		<NetPrice>18819</NetPrice>
-		<ProductNumber><![CDATA[120_50_tr]]></ProductNumber>
-		<Description><![CDATA[Tricepsz rúd, 50 mm-es átmérővel, csapággyal ellátott forgó végekkel a biztonságos használhatóság érdekében. Jól használható bármelyik 51 mm-es belső furatú súlytárcsával. Kifejezetten felsőtest erősítő gyakorlaokhoz ajánljuk. A rúd hullámos alakja elősegíti, hogy a gyakorlat közben ne nehezedjen teher az alkarra. Ennek köszönhetően elkerülhető a sérülés edzés közben. A tricepsz rúd recézett markolatának köszönhetően csúszásmentes felületet biztosít, így akár a verejtékezés ellenére is biztonságosan kivitelezhető minden gyakorlat.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/120_50_tr.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/120_50_tr_altpic_1.jpg]]></ImageUrl2>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>9 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[9 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Méret]]></Attribute_name>
-				<Attribute_value><![CDATA[120 cm]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
@@ -40271,558 +39145,6 @@ Gyártói garancia: 12 hónap
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[DB2173_4-4-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 4 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>7200</Price>
-		<NetPrice>5669</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>4 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[4 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-6-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 6 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>10800</Price>
-		<NetPrice>8504</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>6 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[6 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-8-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 8 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>14400</Price>
-		<NetPrice>11339</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>8 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[8 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-10-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 10 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>18000</Price>
-		<NetPrice>14173</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-12-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 12 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>21600</Price>
-		<NetPrice>17008</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>12 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[12 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-16-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 16 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>28800</Price>
-		<NetPrice>22677</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>16 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[16 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-20-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 20 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>36000</Price>
-		<NetPrice>28346</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>20 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[20 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-24-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 24 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>43200</Price>
-		<NetPrice>34016</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>24 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[24 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-28-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 28 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>50400</Price>
-		<NetPrice>39685</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>28 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[28 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-32-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 32 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>57600</Price>
-		<NetPrice>45354</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>32 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[32 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-36-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 36 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>64800</Price>
-		<NetPrice>51024</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>36 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[36 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2173_4-40-kg]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kettlebell fekete vas, 40 kg]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-fekete-vas-4-kg]]></ProductUrl>
-		<Price>72000</Price>
-		<NetPrice>56693</NetPrice>
-		<ProductNumber><![CDATA[DB2173_4]]></ProductNumber>
-		<Description><![CDATA[1 db feketére festett vas kettlebell:
-A kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz, ami lehetővé teszi a teljes testedzés megvalósítását. Kiváló minőségű vas felhasználásával készült, ami tartósságot biztosít intenzív felhasználás mellett is. Nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas eszköz. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek: 4kg, 6kg, 8kg, 10kg, 12kg, 16kg, 20kg, 24kg, 28kg, 32kg, 36kg, 40kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2173_4.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_8.jpg]]></ImageUrl9>
-		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/DB2173_4_altpic_9.jpg]]></ImageUrl10>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>40 kg</Weight>
-		<Warranty>12</Warranty>
-		<GroupId><![CDATA[DB2173_4]]></GroupId>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[40 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[DB2174_20]]></Identifier>
 		<Manufacturer><![CDATA[Men’s Health]]></Manufacturer>
 		<Name><![CDATA[Kettlebell 20 kg vinyl borítással]]></Name>
@@ -40839,110 +39161,6 @@ Rendelhető méretek:
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>20 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2174_16]]></Identifier>
-		<Manufacturer><![CDATA[Men’s Health]]></Manufacturer>
-		<Name><![CDATA[Kettlebell 16 kg vinyl borítással]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-16-kg-vinyl-boritassal]]></ProductUrl>
-		<Price>26900</Price>
-		<NetPrice>21181</NetPrice>
-		<ProductNumber><![CDATA[DB2174_16]]></ProductNumber>
-		<Description><![CDATA[1 db 16kg-os kettlebell vinyl borítással:
-A színes vinyl borítással ellátott kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz. Tartósságát, intenzív használat mellett is, kiváló minőségű vas alapanyaga garantálja. A gömbsúly lágy műanyag borítása védi a padlót és halkabbá teszi az eszköz használatát. Fogantyúja ergonomikus és nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek:
-4kg-20kg: 4kg, 8kg, 12kg, 16kg, 20kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2174_16.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>16 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2174_12]]></Identifier>
-		<Manufacturer><![CDATA[Men’s Health]]></Manufacturer>
-		<Name><![CDATA[Kettlebell 12 kg vinyl borítással]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-12-kg-vinyl-boritassal-DB2174-12]]></ProductUrl>
-		<Price>20900</Price>
-		<NetPrice>16457</NetPrice>
-		<ProductNumber><![CDATA[DB2174_12]]></ProductNumber>
-		<Description><![CDATA[1 db 12kg-os kettlebell vinyl borítással:
-A színes vinyl borítással ellátott kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz. Tartósságát, intenzív használat mellett is, kiváló minőségű vas alapanyaga garantálja. A gömbsúly lágy műanyag borítása védi a padlót és halkabbá teszi az eszköz használatát. Fogantyúja ergonomikus és nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek:
-4kg-20kg: 4kg, 8kg, 12kg, 16kg, 20kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2174_12.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>12 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2174_8]]></Identifier>
-		<Manufacturer><![CDATA[Men’s Health]]></Manufacturer>
-		<Name><![CDATA[Kettlebell 8 kg vinyl borítással]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-8-kg-vinyl-boritassal]]></ProductUrl>
-		<Price>14900</Price>
-		<NetPrice>11732</NetPrice>
-		<ProductNumber><![CDATA[DB2174_8]]></ProductNumber>
-		<Description><![CDATA[1 db 8kg-os kettlebell vinyl borítással:
-A színes vinyl borítással ellátott kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz. Tartósságát, intenzív használat mellett is, kiváló minőségű vas alapanyaga garantálja. A gömbsúly lágy műanyag borítása védi a padlót és halkabbá teszi az eszköz használatát. Fogantyúja ergonomikus és nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek:
-4kg-20kg: 4kg, 8kg, 12kg, 16kg, 20kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2174_8.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>8 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[DB2174_4]]></Identifier>
-		<Manufacturer><![CDATA[Men’s Health]]></Manufacturer>
-		<Name><![CDATA[Kettlebell 4 kg vinyl borítással]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Kettlebell]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Kettlebell-4-kg-vinyl-boritassal]]></ProductUrl>
-		<Price>7900</Price>
-		<NetPrice>6220</NetPrice>
-		<ProductNumber><![CDATA[DB2174_4]]></ProductNumber>
-		<Description><![CDATA[1 db 4kg-os kettlebell vinyl borítással:
-A színes vinyl borítással ellátott kettlebell vagy gömbsúlyzó edzőtermi, illetve akár otthoni edzésekhez is sokoldalúan használható eszköz. Tartósságát, intenzív használat mellett is, kiváló minőségű vas alapanyaga garantálja. A gömbsúly lágy műanyag borítása védi a padlót és halkabbá teszi az eszköz használatát. Fogantyúja ergonomikus és nagyobb markolatának köszönhetően a kettlebell nem csupán egykezes, hanem akár kétkezes súlyzós gyakorlatok elvégzéséhez is alkalmas. A kettlebell mérete a gömbsúlyon kerül feltüntetésre.
-Rendelhető méretek:
-4kg-20kg: 4kg, 8kg, 12kg, 16kg, 20kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/DB2174_4.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>4 kg</Weight>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -41340,7 +39558,7 @@ Teljes körű garancia: 2 év]]></Description>
 		<Identifier><![CDATA[SN-L39]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L39MAX Masszázsfotel - fekete színben]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/masszazsfotel-hc-home-fitness-l39max-szurke-150kg-teherbiras-3d-alvas-mod-zero-gravity-ai-sl-sinpalya]]></ProductUrl>
 		<Price>549900</Price>
 		<NetPrice>432992</NetPrice>
@@ -41502,7 +39720,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<Identifier><![CDATA[L36]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L36 Masszázsfotel]]></Name>
-		<Category><![CDATA[Egészség > Masszázs > Masszázsfotel]]></Category>
+		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/masszazs-yasumu]]></ProductUrl>
 		<Price>1699900</Price>
 		<NetPrice>1338504</NetPrice>
@@ -41985,240 +40203,6 @@ Erős köracél kialakítás a markolatok pedig recézettek a stabil fogás érd
 			<Attribute>
 				<Attribute_name><![CDATA[Súly]]></Attribute_name>
 				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[SCL230]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Duplakaros evező fogantyú]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Duplakaros-evezo-fogantyu]]></ProductUrl>
-		<Price>26900</Price>
-		<NetPrice>21181</NetPrice>
-		<ProductNumber><![CDATA[SCL230]]></ProductNumber>
-		<Description><![CDATA[A masszív fogási lehetőséggel rendelkező duplakaros evező fogantyú csigás többfunkciós gépekhez ajánlott. Kifejezetten alkalmas a széles hátizom izmainak fejlesztésére de a hát vastagítására is tökéletes eszköz. Erős köracél kialakítás a markolatok pedig recézettek a stabil fogás érdekében. Így nehezebb súlyok esetében is biztos és stabil kivitelezés lehetséges.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/SCL230.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[SCL213]]></Identifier>
-		<Manufacturer><![CDATA[Tunturi]]></Manufacturer>
-		<Name><![CDATA[Széles lehúzó fogantyú 120 cm-es]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Szeles-lehuzo-fogantyu-120-cm-es]]></ProductUrl>
-		<Price>29900</Price>
-		<NetPrice>23543</NetPrice>
-		<ProductNumber><![CDATA[SCL213]]></ProductNumber>
-		<Description><![CDATA[A Tunturi széles lehúzó foganytú a hátizom fejlesztésére szolgáló eszköz. Csigás gépeknél használatos, hátgyakorlat elvégzésére szolgál.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/SCL213.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[LMX08]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Tricepsz kötél egykezes]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Tricepsz-kotel-egykezes]]></ProductUrl>
-		<Price>9900</Price>
-		<NetPrice>7795</NetPrice>
-		<ProductNumber><![CDATA[LMX08]]></ProductNumber>
-		<Description><![CDATA[A Robust tricepsz kötél csatlakoztatható bármilyen csigás fitneszgéphez. Ideális kiegészítő a különböző tricepszet erősítő gyakorlatok elvégzéséhez. Minőségi, masszív anyagból készült, ezáltal akár nagy igénybevétel mellett is hosszú élettartama van. Tricepsz-, has-, bicepsz- vagy akár hát gyakorlatokhoz is kiválóan alkalmazható. A kötél végén egy ütköző található, amely meggátolja, hogy edzés közben lecsússzon a keze a kötélről. A közepén egy fém fejjel csatlakoztathatja gépéhez. Edzőtermi és otthoni használatra is ajánljuk.
-- Hosszúság:37 cm
-- Vastagság: 3 cm.
-- ütköző átmérője: 8,5 cm]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/LMX08.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[2500 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>4 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[4 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[RG92657]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Multifunkciós fogantyú]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Multifunkcios-fogantyu]]></ProductUrl>
-		<Price>12900</Price>
-		<NetPrice>10157</NetPrice>
-		<ProductNumber><![CDATA[RG92657]]></ProductNumber>
-		<Description><![CDATA[A többfajta fogási lehetőséggel rendelkező multifunkciós fogantyú csigás többfunkciós gépekhez ajánlott. Kifejezetten alkalmas a széles hátizom izmainak fejlesztésére de a hát vastagítására is tökéletes eszköz. Erős köracél kialakítás a markolatok pedig recézettek a stabil fogás érdekében. Így nehezebb súlyok esetében is biztos és stabil kivitelezés lehetséges.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/RG92657.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[2500 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[RCB2811]]></Identifier>
-		<Manufacturer><![CDATA[Robust]]></Manufacturer>
-		<Name><![CDATA[Kétkezes hajlított fogantyú gumivéggel 70cm]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Ketkezes-hajlitott-fogantyu-gumiveggel-70cm]]></ProductUrl>
-		<Price>14900</Price>
-		<NetPrice>11732</NetPrice>
-		<ProductNumber><![CDATA[RCB2811]]></ProductNumber>
-		<Description><![CDATA[A Robust kétkezes hajlított gumivéggel ellátott fogantyú tökéletesen alkalmas mind bicepsz, mind tricepsz gyakorlatok alsó, illetve felső csigás lapsúlyos gépeken történő edzéshez.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/RCB2811.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[2500 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>10 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[10 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[SCL214]]></Identifier>
-		<Manufacturer><![CDATA[Tunturi]]></Manufacturer>
-		<Name><![CDATA[Egykezes patkó fogantyú]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Egykezes-patko-fogantyu]]></ProductUrl>
-		<Price>14900</Price>
-		<NetPrice>11732</NetPrice>
-		<ProductNumber><![CDATA[SCL214]]></ProductNumber>
-		<Description><![CDATA[A Tunturi egykezes patkó fogantyú ajánlott csigás többfunkciós gépekhez a bicepsz-, váll- és karizom fejlesztésére. Bicepsz, tricepsz és oldalemelő gyakorlatokat lehet a segítségével végezni. Recézett acél forgó markolat]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/SCL214.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[2500 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>8 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[8 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi, Félprofesszionális-Zártközösségi, Professzionális-Közösségi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[SCL256]]></Identifier>
-		<Manufacturer><![CDATA[Tunturi]]></Manufacturer>
-		<Name><![CDATA[V alakú tricepsz fogantyú gumírozott véggel]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Súlyzórúd, markolat]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/V-alaku-tricepsz-fogantyu-gumirozott-veggel]]></ProductUrl>
-		<Price>14900</Price>
-		<NetPrice>11732</NetPrice>
-		<ProductNumber><![CDATA[SCL256]]></ProductNumber>
-		<Description><![CDATA[A Tunturi V alakú tricepsz fogantyú csigás gépeknél használatos, tricepsz gyakorlatok elvégzésére szolgáló eszköz. Különösen erős köracél anyagból, recézett gumírozott fogás a stabil fogásért.]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/SCL256.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[2500 Ft]]></DeliveryCost>
-		<FreeDelivery>0</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>8 kg</Weight>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[8 kg]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
@@ -43019,8 +41003,8 @@ Teljes kör: 3 év]]></Description>
 		<Name><![CDATA[Tunturi WB60 Olympic súlyzóspad]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Edzőpad]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Tunturi-WB60-Olympic-sulyzospad]]></ProductUrl>
-		<Price>139900</Price>
-		<NetPrice>110157</NetPrice>
+		<Price>99900</Price>
+		<NetPrice>78661</NetPrice>
 		<ProductNumber><![CDATA[17TSWB6000]]></ProductNumber>
 		<Description><![CDATA[A Tunturi WB60 súlyzóspad széles villatávolságának köszönhetően a fekvenyomó gyakorlatok kényelmesen elvégezhetőek akár szűk, akár széles fogással, A négy fokozatban állítható háttámla segítségével nem csak döntve, hanem akár negatív pozícióban is lehet a padon fekvenyomni.
 Tunturi WB60 Olympic súlyzóspad:
@@ -49238,8 +47222,8 @@ Garanciabővítés: +1 év: 35 000 Ft; +2 év: 66 000 Ft; +3 év: 97 000 Ft
 		<Name><![CDATA[Pro Fitness T3000 futógép]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/7937365_futopad]]></ProductUrl>
-		<Price>299900</Price>
-		<NetPrice>236142</NetPrice>
+		<Price>449900</Price>
+		<NetPrice>354252</NetPrice>
 		<ProductNumber><![CDATA[7937365]]></ProductNumber>
 		<Description><![CDATA[Pro Fitness T3000 futópad
 - Egy speciális Cushion Tech Silicone csillapítási rendszerrel ellátott futópad, mely akár 135 kg-os terhelésig is megfelelő védelmet biztosít az ízületeknek.
@@ -49858,36 +47842,6 @@ Garancia: 3 év
 				<Attribute_name><![CDATA[Futófelület hossza]]></Attribute_name>
 				<Attribute_value><![CDATA[150 cm]]></Attribute_value>
 			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[2557]]></Identifier>
-		<Manufacturer><![CDATA[Polar]]></Manufacturer>
-		<Name><![CDATA[Polar T34 mellkasi jeladó + öv]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Egyéb fitnesz eszköz]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Polar-jelado-T31-coded]]></ProductUrl>
-		<Price>19900</Price>
-		<NetPrice>15669</NetPrice>
-		<ProductNumber><![CDATA[2557]]></ProductNumber>
-		<Description><![CDATA[Polar T34 mellkasi jeladó + öv leírás
-A Polar T34 mellkasi jeladó a Polar T31 mellkasi jeladó nagyobb hatósugárral rendelkező verziója, mely kifejezetten fitneszgépeken történő edzéshez fejlesztett modell. Számos sporteszköz támogatja ezt a típusú pulzusmérőt.
-Hogyan támogatja a Polar T34 mellkasi jeladó a professzionális pulzusmérést?
-- A Polar T34 mellkasi jeladó a vele kompatibilis otthoni és edzőtermi fitnessgépeken, szobakerékpárokon egyaránt használható modell.
-- A T34-es pulzusmérő jeladó eszközzel nem fordulhat elő olyan probléma, hogy a vevő egység azért nem veszi az adatokat, mert túl távol került tőle az edzés közben.
-- Fröccsöntött műanyagba ágyazott beépített, NEM cserélhető elemmel rendelkezik, melynek az élettartama átlagosan 2500 óra.
-- A terméket „M”-es jelölésű mellkasi övvel szállítjuk!
-Vásárlás előtt kérjük ellenőrizze, hogy biztosan kompatiubilis e a választott sporteszközhöz!
-Polar T34 mellkasi jeladó + öv]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/2557.jpg]]></ImageUrl>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<Oversize>0</Oversize>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
 				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
