@@ -100,13 +100,11 @@ Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/GHN075.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN075_altpic_1.jpg]]></ImageUrl2>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
+		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>110 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>0</BasketDisabled>
+		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -10265,7 +10263,8 @@ Teljes körű garancia: 3 év]]></Description>
 		<Price>379900</Price>
 		<NetPrice>299134</NetPrice>
 		<ProductNumber><![CDATA[S580F]]></ProductNumber>
-		<Description><![CDATA[A Robust Premium GT90 egy professzionális tudással rendelkező otthoni futópad. Az újonnan kifejlesztett nagy teljesítményű 3.0 LE-s (BLDC) szénkefe nélküli motor egyenletes mozgást biztosít a használat során. A futópad tervezői arra is odafigyeltek, hogy a motor elhelyezése – mivel a többi ilyen kategóriájú futópaddal ellentétben itt nincs motorburkolat – ne zavarja a felhasználót az edzés során. 20 különböző, motorikusan állítható dőlésszög és a 22 km/h végsebesség még gyakorlott futók számára is igazi kihívást jelent. A futópad komfortos és kategóriájában egyedülálló, 58 cm széles, ízületkímélő rendszerrel ellátott futófelülete élvezetessé teszi az edzést. A pulzusérték futás közben kézpulzusmérővel és pulzusmérő övvel egyaránt nyomon követhető. A többablakos LED kijelzőről az edzés összes fontosabb paramétere könnyen leolvasható. Bluetooth-kapcsolaton keresztül több fitneszalkalmazás is elérhető, például a Kinomap, FitShow és Zwift, amelyek további lehetőségeket és edzésélményt nyújtanak. A kijelző előtti kezelőegységen a gyorsgombok segítségével akár egy gombnyomással beállítható a kívánt sebesség és dőlésszög. Családi, otthoni felhasználásra kitűnő választás a Robust Premium GT90 futópad, amely rendszeres használatával javíthatja állóképességét és erősítheti izmait.
+		<Description><![CDATA[A terméket 1 óra futásra, és 45 perc sétára ajánljuk.
+A Robust Premium GT90 egy professzionális tudással rendelkező otthoni futópad. Az újonnan kifejlesztett nagy teljesítményű 3.0 LE-s (BLDC) szénkefe nélküli motor egyenletes mozgást biztosít a használat során. A futópad tervezői arra is odafigyeltek, hogy a motor elhelyezése – mivel a többi ilyen kategóriájú futópaddal ellentétben itt nincs motorburkolat – ne zavarja a felhasználót az edzés során. 20 különböző, motorikusan állítható dőlésszög és a 22 km/h végsebesség még gyakorlott futók számára is igazi kihívást jelent. A futópad komfortos és kategóriájában egyedülálló, 58 cm széles, ízületkímélő rendszerrel ellátott futófelülete élvezetessé teszi az edzést. A pulzusérték futás közben kézpulzusmérővel és pulzusmérő övvel egyaránt nyomon követhető. A többablakos LED kijelzőről az edzés összes fontosabb paramétere könnyen leolvasható. Bluetooth-kapcsolaton keresztül több fitneszalkalmazás is elérhető, például a Kinomap, FitShow és Zwift, amelyek további lehetőségeket és edzésélményt nyújtanak. A kijelző előtti kezelőegységen a gyorsgombok segítségével akár egy gombnyomással beállítható a kívánt sebesség és dőlésszög. Családi, otthoni felhasználásra kitűnő választás a Robust Premium GT90 futópad, amely rendszeres használatával javíthatja állóképességét és erősítheti izmait.
 Műszaki adatok
 Paraméterek
 Kijelző típusa: LED
@@ -10925,7 +10924,7 @@ Link: https://youtu.be/g2KJmh1Xp0U]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN_L21_barna]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L21 Masszázsfotel - barna színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L21-Masszazsfotel-barna-szinben]]></ProductUrl>
@@ -11202,7 +11201,7 @@ A tágas, 120 × 46 cm-es futófelület minden futó számára megfelelő helyet
 Általános információk:
 - Szállítókerekekkel felszerelve
 - Teljesen összeszerelve érkezik
-- Gyártói garancia: 2 év
+- Gyártói garancia: 1 év
 - EAN: 885652035057]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/7811364.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7811364_altpic_1.jpg]]></ImageUrl2>
@@ -11213,7 +11212,7 @@ A tágas, 120 × 46 cm-es futófelület minden futó számára megfelelő helyet
 		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>53500 g</Weight>
-		<Warranty>24</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11304,7 +11303,7 @@ EAN: 885652034753]]></Description>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>93 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11387,7 +11386,7 @@ Maximális felhasználói testsúly: 130 kg]]></Description>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/ers_510t_altpic_2.jpg]]></ImageUrl3>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
-		<Warranty>36</Warranty>
+		<Warranty>12</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -11404,7 +11403,7 @@ Maximális felhasználói testsúly: 130 kg]]></Description>
 	<Product>
 		<Identifier><![CDATA[L66_feher]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - fehér szinben]]></Name>
+		<Name><![CDATA[HC Home Lifestyle L66 Masszázsfotel - fehér szinben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel-feher-szinben]]></ProductUrl>
 		<Price>1499900</Price>
@@ -11544,7 +11543,7 @@ Teljes körű garancia: 3 év]]></Description>
 	<Product>
 		<Identifier><![CDATA[L66_barna]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - barna szinben]]></Name>
+		<Name><![CDATA[HC Home Lifestyle L66 Masszázsfotel - barna szinben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel-L66-barna]]></ProductUrl>
 		<Price>1499900</Price>
@@ -11684,7 +11683,7 @@ Teljes körű garancia: 3 év]]></Description>
 	<Product>
 		<Identifier><![CDATA[L66]]></Identifier>
 		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestlye L66 Masszázsfotel - sárga szinben]]></Name>
+		<Name><![CDATA[HC Home Lifestyle L66 Masszázsfotel - sárga szinben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestlye-L66-Masszazsfotel]]></ProductUrl>
 		<Price>1499900</Price>
@@ -12374,13 +12373,12 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 		<NetPrice>157402</NetPrice>
 		<ProductNumber><![CDATA[T4500FN]]></ProductNumber>
 		<Description><![CDATA[A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
-Robust GT30 futópad
 Lehetőség szerint a futópadot egy idejűleg csak max. 30-40 percig használja.
+Robust GT30 futópad
 A Robust GT30 egy rendkívül csendes és megbízható otthoni futópad, mely erős 2,5 LE motorral és több, mint 24 beépített programlehetőséggel rendelkezik. Dőlésszöge 18 fokozatban állítható, végsebessége 18 km/h. A futópad 140 x 45 cm-es, ízületkímélő rendszerrel ellátott futófelülete élvezetessé teszi az edzést. A jól áttekinthető LED kijelző segítségével folyamatosan nyomon követheti a futás fontosabb paramétereit és akár különböző alkalmazásokhoz (Kinomap, Fitshow, Zwift) is csatlakozhat. A készülék Bluetooth hangszóróval rendelkezik, melyen keresztül hallgathatja kedvenc zenéit edzés közben. A kijelző előtti kezelő egységen a gyorsgombok segítségével könnyen beállíthatja a kívánt sebességet és dőlésszöget. Összecsukható vázszerkezettel és szállítógörgőkkel is rendelkezik. A rendszeres futással javíthatja állóképességét, erősítheti izmait és folyamatosan karbantarthatja szívét és vérkeringését. Kezdő futni vágyóknak remek választás lehet aRobust GT30-as futópad.
 Üzembe helyezés
 Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében.
 A termék összeszerelésének díja 19 900 Ft
-Műszaki adatok
 Termékazonosítás
 Márka: Robust
 Modellnév: GT30
@@ -15125,8 +15123,8 @@ Garancia: 2 év teljes körű garancia]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN_L21_szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle L21 Masszázsfotel - szűrke színben]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle L21 Masszázsfotel - szürke színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L21-Masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>449900</Price>
@@ -17610,7 +17608,7 @@ Bruttó súly: 144 kg]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9B-vilagos-kek-fejparnakkal]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Világos kék - Fejpárnákkal]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
@@ -17759,7 +17757,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9B-sotet-kek]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Sötét kék]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
@@ -17908,7 +17906,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9B-sotet-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - fejpárnákkal, Sötét szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-fejparnakkal]]></ProductUrl>
@@ -18057,10 +18055,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_szurke-sotet-kek]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Sötét kék]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szürke színben, Sötét kék]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-szurke]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_szurke]]></ProductNumber>
@@ -18206,10 +18204,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_szurke-vilagos-kek-fejparnakkal]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Világos kék - Fejpárnákkal]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szürke színben, Világos kék - Fejpárnákkal]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-szurke]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_szurke]]></ProductNumber>
@@ -18355,10 +18353,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_szurke-sotet-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szűrke színben, Sötét szürke]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét szürke színben, Sötét szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-sz]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-szurke-szurke]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_szurke]]></ProductNumber>
@@ -18504,10 +18502,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_sotetkek-sotet-kek]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Sötét kék]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinben]]></ProductUrl>
 		<Price>274900</Price>
 		<NetPrice>216457</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_sotetkek]]></ProductNumber>
@@ -18653,10 +18651,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_sotetkek-sotet-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Sötét szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinben]]></ProductUrl>
 		<Price>274900</Price>
 		<NetPrice>216457</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_sotetkek]]></ProductNumber>
@@ -18802,10 +18800,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-S9C_sotetkek-vilagos-kek-fejparnakkal]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle S9 Masszázsfotel - sötét kék színben, Világos kék - Fejpárnákkal]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinb]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-S9-Masszazsfotel-sotet-kek-szinben]]></ProductUrl>
 		<Price>299900</Price>
 		<NetPrice>236142</NetPrice>
 		<ProductNumber><![CDATA[SN-S9C_sotetkek]]></ProductNumber>
@@ -18951,7 +18949,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-V8_fekete]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle V8 Masszázsfotel - fekete színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-V8-Masszazsfotel-fekete-szinben]]></ProductUrl>
@@ -19103,7 +19101,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_fekete-fekete]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Fekete]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
@@ -19262,7 +19260,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_fekete-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
@@ -19421,7 +19419,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_fekete-feher]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fekete színben, Fehér]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-fekete-szinben]]></ProductUrl>
@@ -19580,7 +19578,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_feher-feher]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, Fehér]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
@@ -19738,7 +19736,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_feher-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, Szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
@@ -19896,7 +19894,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50_feher-fekete]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - fehér színben, fekete]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-Masszazsfotel-feher-szinben]]></ProductUrl>
@@ -20210,7 +20208,7 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L36_barna]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L36 Masszázsfotel - barna színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L36-Masszazsfotel]]></ProductUrl>
@@ -20518,7 +20516,7 @@ Teljes körű garancia: 12 hónap/1 év]]></Description>
 	<Product>
 		<Identifier><![CDATA[HY-80102]]></Identifier>
 		<Manufacturer><![CDATA[Leziter]]></Manufacturer>
-		<Name><![CDATA[Relaxa elektromos ringató és forgatható masszázsfotel]]></Name>
+		<Name><![CDATA[Leziter Relaxa elektromos ringató és forgatható masszázsfotel]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/LEZITER-Relaxa-elektromos-ringato-es-forgathato-ma]]></ProductUrl>
 		<Price>129900</Price>
@@ -21693,7 +21691,7 @@ Csomagolási méret: 119 × 28 × 68 cm
 Nettó súly: 38,7 kg
 Bruttó súly: 42,2 kg
 GARANCIA
-Teljes körű garancia: 3 év
+Teljes körű garancia: 2 év
 A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
 Tunturi Signature E50 szobakerékpár:
 Leírás
@@ -21768,7 +21766,7 @@ GARANCIA]]></Description>
 		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>43 kg</Weight>
-		<Warranty>36</Warranty>
+		<Warranty>24</Warranty>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
@@ -21808,10 +21806,10 @@ GARANCIA]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50-szurke]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Szürke]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szürke színben, Szürke]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
 		<ProductNumber><![CDATA[L50]]></ProductNumber>
@@ -21966,10 +21964,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50-fekete]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Fekete]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szürke színben, Fekete]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>949900</Price>
 		<NetPrice>747953</NetPrice>
 		<ProductNumber><![CDATA[L50]]></ProductNumber>
@@ -22124,10 +22122,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[L50-feher]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szűrke színben, Fehér]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle L50 Masszázsfotel - szürke színben, Fehér]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Lifestyle-L50-masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>999900</Price>
 		<NetPrice>787323</NetPrice>
 		<ProductNumber><![CDATA[L50]]></ProductNumber>
@@ -22282,10 +22280,10 @@ Teljes körű garancia: 36 hónap / 3 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-V8]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Lifestyle V8 Masszázsfotel - szürke szín]]></Name>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
+		<Name><![CDATA[HC Home Lifestyle V8 Masszázsfotel - szürke színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/hc-home-fitness-v8-masszazsfotel]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/hc-home-fitness-v8-masszazsfotel-szurke-szinben]]></ProductUrl>
 		<Price>324900</Price>
 		<NetPrice>255827</NetPrice>
 		<ProductNumber><![CDATA[SN-V8]]></ProductNumber>
@@ -22918,13 +22916,11 @@ Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN3480_altpic_2.jpg]]></ImageUrl3>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN3480_altpic_3.jpg]]></ImageUrl4>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN3480_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
+		<DeliveryTime>NO</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>85 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>0</BasketDisabled>
+		<BasketDisabled>1</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -27835,7 +27831,8 @@ Teljes körű garancia: 36 hónap/3 év]]></Description>
 		<Price>239900</Price>
 		<NetPrice>188898</NetPrice>
 		<ProductNumber><![CDATA[T4600FN]]></ProductNumber>
-		<Description><![CDATA[1. Áttekinthető edzéskijelző az egyszerű visszajelzésért
+		<Description><![CDATA[Lehetőség szerint a futópadot egy idejűleg csak max. 30-40 percig használja.
+1. Áttekinthető edzéskijelző az egyszerű visszajelzésért
 A GT20 futópadon elhelyezett LCD kijelző világosan és könnyen olvasható módon mutatja az edzés legfontosabb adatait – például a futás idejét, sebességét, távolságát, kalóriát vagy a dőlésszöget –, így egyetlen pillantással nyomon követheted a fejlődésedet.
 2. Kompatibilitás népszerű edzésalkalmazásokkal
 Ez a modell támogatja a Kinomap, Fitshow és Zwift alkalmazásokat, így nemcsak a beépített programokat használhatod, hanem akár interaktív, virtuális edzésélményekhez is csatlakozhatsz – közvetlenül a futópad kijelzőjéhez kapcsolódva.
@@ -27999,8 +27996,8 @@ Teljes körű garancia: 2 év]]></Description>
 		<NetPrice>275512</NetPrice>
 		<ProductNumber><![CDATA[T520S]]></ProductNumber>
 		<Description><![CDATA[A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
-Robust Premium GT50 futópad
 Lehetőség szerint a futópadot egy idejűleg csak max. 30-40 percig használja.
+Robust Premium GT50 futópad
 A Robust Premium GT50 egy rendkívül csendes és megbízható otthoni futópad, mely erős 3 LE motorral és több, mint 24 beépített programlehetőséggel rendelkezik. Dőlésszöge 20 fokozatban /10%/ állítható, végsebessége 22 km/h. A futópad 140 x 52 cm-es, ízületkímélő rendszerrel ellátott futófelülete élvezetessé teszi az edzést. A jól áttekinthető LED kijelző segítségével folyamatosan nyomon követheti a futás fontosabb paramétereit és akár különböző alkalmazásokhoz (Kinomap, Fitshow, Zwift) is csatlakozhat. A készülék Bluetooth hangszóróval rendelkezik, melyen keresztül hallgathatja kedvenc zenéit edzés közben. A kijelző előtti kezelő egységen a gyorsgombok segítségével könnyen beállíthatja a kívánt sebességet és dőlésszöget. Összecsukható vázszerkezettel és szállítógörgőkkel is rendelkezik. A rendszeres futással javíthatja állóképességét, erősítheti izmait és folyamatosan karbantarthatja szívét és vérkeringését. Kezdő futni vágyóknak remek választás lehet aRobust Premium GT30-as futópad.
 Üzembe helyezés
 Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében.
@@ -34929,6 +34926,7 @@ Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2003A_altpic_3.jpg]]></ImageUrl4>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2003A_altpic_4.jpg]]></ImageUrl5>
 		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2003A_altpic_5.jpg]]></ImageUrl6>
+		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YKET2003A_altpic_6.jpg]]></ImageUrl7>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
 		<FreeDelivery>1</FreeDelivery>
@@ -36819,148 +36817,6 @@ Doboz tartalma: Biztonsági kulcs, tápkábel, jack kábel, összeszereléshez s
 		</Attributes>
 	</Product>
 	<Product>
-		<Identifier><![CDATA[YK-CT1902T]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
-		<Name><![CDATA[HC Home Fitness YKCT1902T fronthajtásos elliptikus gép]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Elliptikus tréner]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-HOME-FITNESS-1902-fronthajtasos-elliptikus-gep]]></ProductUrl>
-		<Price>199900</Price>
-		<NetPrice>157402</NetPrice>
-		<ProductNumber><![CDATA[YK-CT1902T]]></ProductNumber>
-		<EanCode>5999862765835</EanCode>
-		<Description><![CDATA[HC HOME FITNESS CT1902 - több, mint egy elliptikus
-Ez a gép azoknak készült, akik nem csak mozogni akarnak, hanem érezni is az edzést. A HC Home Fitness CT1902T ötvözi a természetes mozgást, a csendes működést és a variálhatóságot, ráadásul egy olyan extrával, amit ebben a kategóriában ritkán kapsz meg: állítható dőlésszög.
-Ha egyszer rálépsz, érteni fogod, miért nehéz abbahagyni.
-1. Folyamatos, természetes mozgás
-A 45 cm-es lépéshossz és a 13 cm-es Q-faktor kényelmes, jól kontrollálható mozgást ad, ami ideális otthoni edzésekhez.
-A 18 kg-os lendkerék pedig gondoskodik arról, hogy minden lépés sima, egyenletes és stabil legyen, nincs rángatás, csak tiszta, folyamatos ritmus.
-2. Stabil társ a mindennapokban
-Stabil váza és precíz lineáris sínrendszere hosszú távra készült. A mozgás stabil, a szerkezet megbízható, ez a gép bírja a rendszeres használatot.
-120 kg-os teherbírásával magabiztos alapot ad minden edzéshez.
-3. Okos ellenállás, teljes kontroll
-A 16 fokozatú, elektromosan vezérelt permanens mágneses ellenállás lehetővé teszi, hogy pontosan azt az intenzitást válaszd, amire szükséged van.
-Laza átmozgatás vagy komoly kardió? Egy gombnyomás, és már váltasz is.
-4. Fronthajtás, a kényelmesebb választás
-A fronthajtásos rendszer természetesebb, laposabb mozgáspályát biztosít, ami kíméli az ízületeket és stabilabb érzetet ad edzés közben.
-Jobb testtartás, hatékonyabb mozgás, pontosan ezért ez a kialakítás a fejlettebb gépek sajátja.
-5. Állítható dőlésszög - több szög, több kihívás
-Az egyik legnagyobb extrája: 5 fokozatban, manuálisan állítható dőlésszög, amivel teljesen új dimenzióba helyezheted az edzést.
-Lapos mozgás a könnyed kardióhoz, meredekebb beállítás a comb- és farizom intenzív terheléséhez, mintha több gépet kapnál egyben.
-6. Halk működés, modern kényelem
-A lineáris sínrendszer és a precíz csapágyazás szinte hangtalan működést biztosít, ideális otthoni környezetben is.
-Kompakt kialakítás, beépített telefontartó, és már indulhat is a kedvenc sorozatod edzés közben.
-Üzembe helyezés:
-Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, tökéletes beállítást az egyenletes és akadásmentes használathoz. Első szilikon zsírozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, összes gomb kipróbálása, Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében. Ezt Követően a terméket visszacsomagoljuk eredeti dobozába.
-TERMÉK AZONOSÍTÁS
-Márka: HC Home Fitness
-Modellnév: YKCT1902T
-Cikkszám: YK-CT1902T
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-ELLENÁLLÁS & TELJESÍTMÉNY
-Fékrendszer: Permanens mágnes
-Lendkerék súlya: 18 kg
-Ellenállási szintek: 16 fokozat
-Ellenállás állítás: Elektromos
-LÉPÉSHOSSZ & MECHANIKA
-Lépéshossz: 45 cm
-Q faktor: 13 cm
-Tápellátás: Hálózati
-Pulzusmérés: Van
-KIJELZŐ & PROGRAMRENDSZER
-Kijelző típusa: LCD
-Kijelzett adatok: Idő, Távolság, Kalória, Nehézség, Sebesség, Pulzus, Watt, Fordulat/Perc
-Testzsír mérés: Van
-BIZTONSÁG & KIALAKÍTÁS
-Összecsukható: Nem
-Szállítókerekek: Van
-Szintezés: Van
-Zajszint: Nagyon halk
-TERHELHETŐSÉG & AJÁNLÁS
-Maximális felhasználói testsúly: 120 kg
-Felhasználási szintje: OTTHONI
-MÉRETEK & SÚLY
-Méret (összeszerelve): 156 x 78 x 170 cm
-Nettó súly: 58.5 kg
-Bruttó súly: 67.5 kg
-GARANCIA
-Teljes körű garancia: 2 év]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/YK-CT1902T.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_5.jpg]]></ImageUrl6>
-		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_6.jpg]]></ImageUrl7>
-		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_7.jpg]]></ImageUrl8>
-		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/YK-CT1902T_altpic_8.jpg]]></ImageUrl9>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>59 kg</Weight>
-		<Warranty>24</Warranty>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[120 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Q faktor]]></Attribute_name>
-				<Attribute_value><![CDATA[13 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
-				<Attribute_value><![CDATA[Elektromotorral szabályzott permanens mágnes]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Lendkerék]]></Attribute_name>
-				<Attribute_value><![CDATA[18 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
-				<Attribute_value><![CDATA[16 fokozatú permanent mágnes]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
-				<Attribute_value><![CDATA[5 fokozat]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
-				<Attribute_value><![CDATA[16 program]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[67 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Lépés hossza]]></Attribute_name>
-				<Attribute_value><![CDATA[45 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
-				<Attribute_value><![CDATA[Igen]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[OTTHONI]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[A márka származási helye]]></Attribute_name>
-				<Attribute_value><![CDATA[Magyarország]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Hajtás]]></Attribute_name>
-				<Attribute_value><![CDATA[Fronthajtásos]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
 		<Identifier><![CDATA[YK-CT1801T]]></Identifier>
 		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
 		<Name><![CDATA[HC HOME FITNESS YKCT1801T Elliptikus tréner]]></Name>
@@ -38452,8 +38308,8 @@ A Tunturi UB60 állítható pad robusztus megjelenésű, a fekete acél váza po
 		<NetPrice>307008</NetPrice>
 		<ProductNumber><![CDATA[T5500C]]></ProductNumber>
 		<Description><![CDATA[A megrendelt terméket akár összeszerelt állapotban is kiszállítjuk önnek.
-Robust Premium GT70 futópad
 Lehetőség szerint a futópadot egy idejűleg csak max. 30-40 percig használja.
+Robust Premium GT70 futópad
 A Robust Premium GT70 egy kíváló ár-érték aránnyal rendelkező futópad. Kifejezetten erős 3,5 LE motorral és számos programlehetőséggel rendelkezik. A maximum 20% -ig állítható dőlésszög és a 22 km/h végsebesség még gyakorlott futók számára is igazi kihívást jelent. A futópad komfortos és kategóriájában egydülálló nagy 145 x 54,5 cm-es, ízületkímélő rendszerrel ellátott futófelülete élvezetessé teszi az edzést. A pulzusérték futás közben kézpulzusmérővel és pulzusmérő övvel egyaránt nyomon követhető. A több ablakos LED kijelzőről az edzés összes fontosabb paramétere könnyen leolvasható. Bluetooth kapcsolaton keresztül számos alkalmazás(Kinomap, Zwift, Fitshow)csatlakoztatható a készülékhez, melyek további lehetőséget és edzésélményt biztosítanak. A kijelző előtti kezelő egységen a gyorsgombok segítségével akár egy gombnyomással beállítható a kívánt sebesség és dőlésszög. Családi, otthoni felhasználásra kitűnő választás a Robust Premium GT70 futópad, mely rendszeres használatával javíthatja állóképességét és erősítheti izmait.
 Üzembe helyezés
 Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében.
@@ -39556,10 +39412,10 @@ Teljes körű garancia: 2 év]]></Description>
 	</Product>
 	<Product>
 		<Identifier><![CDATA[SN-L39]]></Identifier>
-		<Manufacturer><![CDATA[HC HOME FITNESS]]></Manufacturer>
+		<Manufacturer><![CDATA[HC Home Fitness]]></Manufacturer>
 		<Name><![CDATA[HC Home Lifestyle L39MAX Masszázsfotel - fekete színben]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Masszázsfotelek]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/masszazsfotel-hc-home-fitness-l39max-szurke-150kg-teherbiras-3d-alvas-mod-zero-gravity-ai-sl-sinpalya]]></ProductUrl>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/masszazsfotel-hc-home-fitness-l39max-fekete-150kg-teherbiras-3d-alvas-mod-zero-gravity-ai-sl-sinpalya]]></ProductUrl>
 		<Price>549900</Price>
 		<NetPrice>432992</NetPrice>
 		<ProductNumber><![CDATA[SN-L39]]></ProductNumber>
@@ -47209,181 +47065,6 @@ Garanciabővítés: +1 év: 35 000 Ft; +2 év: 66 000 Ft; +3 év: 97 000 Ft
 			<Attribute>
 				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
 				<Attribute_value><![CDATA[Otthoni]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[7937365]]></Identifier>
-		<Manufacturer><![CDATA[Pro Fitness]]></Manufacturer>
-		<Name><![CDATA[Pro Fitness T3000 futógép]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/7937365_futopad]]></ProductUrl>
-		<Price>449900</Price>
-		<NetPrice>354252</NetPrice>
-		<ProductNumber><![CDATA[7937365]]></ProductNumber>
-		<Description><![CDATA[Pro Fitness T3000 futópad
-- Egy speciális Cushion Tech Silicone csillapítási rendszerrel ellátott futópad, mely akár 135 kg-os terhelésig is megfelelő védelmet biztosít az ízületeknek.
-- Dőlésszöget nem manuálisan, hanem már a konzolon található gombok segítségével futás közben állíthatjuk egészen komoly 18%-os dőlésszögig.
-- Nagyon stabil és megbízható futógép otthonra, amin akár 20 km/h-ás sebességgel is futhatunk, ha bírjuk és úgy tartja kedvünk.
-- Tempója könnyedén állítható 0,1 km/h-ás lépésközönként a gombokkal vagy a konzolon található gyorsgombokkal.
-- Dark Shadow akril TFT Wifi kijelzőjén keresztül jól követhető a sebesség, a megtett távolság, az eltelt idő, az aktuálisan futó program, dőlésszög és az elégetett kalória is.
-- Kapaszkodókarjaiba épített pulzusmérő segítségével akár precízebb, pulzus alapú edzéseket is végezhetünk.
-- Könnyen összecsukható és aránylag kis helyen is elfér.
-- Mozgatását az alján található kis kerekek segítik.
-A Pro Fitness T3000 futópad műszaki adatai
-- Motorteljesítménye: 2,5 LE folyamatos teljesítmény (4,0 LE csúcsteljesítmény).
-A futópadba szerelt erős motor a kiegyensúlyozott működés és a hosszú élettartam záloga.
-- Sebesség: 0-20 km/h (gyors sebesség gombok)
-Sebessége széles tartomány belül állítható. A kívánt gyorsaság egy gomb megnyomásával elérhető.
-- Dőlésszög: 0-18%
-Futhat sík terepen, vagy emelkedőn. A Pro Fitness T3000 futópad kívánt dőlésszöge egy gomb megnyomásával elérhető.
-- Futófelület mérete: 145 x 51 cm
-- Programok: 3 manuális program, 24 beépített program 2 pulzus kontroll program.
-Az elérhető programokkal, különböző aerob, súlycsökkentő és a teljesítmény növelésére fókuszáló programok közül választhat.
-- Rezgéscsillapító rendszer: A Pro Fitness T3000 futópad Cushion Tech Silicone csillapítási rendszerrel rendelkezik.
-A Pro Fitness T3000 futópad speciálisan elhelyezkedő rezgéscsillapítása a szabadban történő edzésnél sokkal ízületkímélőbb futást tesz lehetővé.
-- Pulzusmérés: markolati pulzusmérő.
-- Kijelző: Dark Shadow akril LED kijelző
-Kijelzője mutatja a sebességet, a távolságot, az időt, a pulzusértéket, a dőlésszöget, az elégetett kalóriát, futó programot.
-- Összecsukható: Igen
-- Könnyen mozgatható: Beépített kerekekkel rendelkezik, ezért összecsukva egyszerűen mozgatható.
-- A felhasználó maximális testtömege: 135 kg
-- Futópad súlya: 102 kg
-- Összeszerelt mérete: 183 x 88 x 132 cm
-- Összecsukott mérete: 119 x 88 x 155 cm
-- Tanúsítványok: TÜV és GS által bevizsgált termék (CE-ROHS-EN957)
-- Garancia: 36 hónap
-Üzembe helyezés
-Az üzembe helyezés magába foglalja a termékek precíz ellenőrzését, szőnyeg felhasználó súlyához igazitása, futószőnyeg tökéletes beállítást az egyenes és akadásmentes futáshoz. Első szilikon olajozást, komplett átvizsgálása a kiegészitő elemeknek pulzus érzékelők tesztje, hangszórok tesztje, összes gomb kipróbálása, motor bejáratás, emelő motor tesztelése. Kimondottan magas minőségű zsírt és hézagoló elemeket használunk összerakáskor a sok éves nyikorgás mentes használat érdekében.
-A termék összeszerelésének díja 19 900 Ft
-Műszaki adatok
-Termékazonosítás
-Márka: Pro Fitness
-Modellnév: T3000
-Cikkszám: 7937365
-Szín: Fekete
-Típus: Motoros
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-Motor és teljesítmény
-Motor típusa: DC
-Motor folyamatos teljesítmény: 2.5 LE
-Motor csúcsteljesítmény: 4,0 LE
-Minimális sebesség: 0,8 km/h
-Maximális sebesség: 20 km/h
-Sebességállítás léptéke: 0,1 km/h
-Ajánlott maximális üzemidő: 1 óra használat, utána 2-3 óra pihentetés
-Futófelület és mechanika
-Futófelület mérete: 145 x 51 cm
-Futószalag vastagsága: 1,8 mm
-Ízületkímélés típusa: Fejlett
-Dőlésszög típusa: Motorikus
-Maximális dőlésszög: 18 %
-Programrendszer
-Beépített programok száma összesen: 29
-Célprogramok: Idő, Távolság, Kalória
-Testzsír mérés: Van
-Szünet funkció: Igen
-Gyorsindítás: Van
-Sebesség gyorsgombok: Igen
-Dőlésszög gyorsgombok: Van
-Kézi vezérlés: Van
-Mérési funkciók
-Pulzusmérés: Van
-Mellkasi öv vevő: Van
-Mellkasi öv tartozék: Nem
-Kijelző
-Kijelző típusa: LED
-Okos kijelző: Nincs
-Kijelző méret: ----
-Színes kijelző: Nem
-Dönthető képernyő: ----
-Érintőképernyő: Nincs
-Kijelzett adatok: Pulzus, Kalória, Távolság, Idő, Sebesség, Dőlésszög
-Multimédia és kapcsolat
-Bluetooth: Van
-Wi-Fi: Van
-USB port: ----
-Audio bemenet (mp3): ----
-Hangszóró: Van
-Telefon töltő: ----
-Integrált ventilátor: ----
-Tablet/Okostelefon tartó: Van
-Kulacs tartó: ----
-Applikáció kompatibilitás: Van
-Biztonság és kialakítás
-Összecsukható: Igen, felhajtható
-Leengedési rendszer: Soft Drop
-Szállítókerekek: Van
-Szintezés: Nincs
-Biztonsági kulcs: Van
-Hangulat világítás: Nincs
-Zajszint: Csendes
-Terhelhetőség és ajánlás
-Maximális felhasználói testsúly: 135 kg]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/7937365.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7937365_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7937365_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7937365_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7937365_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/7937365_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>102 kg</Weight>
-		<Warranty>36</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[135 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[140x51 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Motor teljesítmény]]></Attribute_name>
-				<Attribute_value><![CDATA[5 LE]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
-				<Attribute_value><![CDATA[18% elektromos dőlésszög]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Végsebesség]]></Attribute_name>
-				<Attribute_value><![CDATA[20 km/h]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
-				<Attribute_value><![CDATA[20]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[102 Kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
-				<Attribute_value><![CDATA[Igen]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[OTTHONI]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület szélessége]]></Attribute_name>
-				<Attribute_value><![CDATA[51 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület hossza]]></Attribute_name>
-				<Attribute_value><![CDATA[140 cm]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
