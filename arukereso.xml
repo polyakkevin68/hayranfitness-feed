@@ -117,7 +117,7 @@ Teljes körű garancia: 3 év]]></Description>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[150 x 53]]></Attribute_value>
+				<Attribute_value><![CDATA[150 x 53 cm]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[Motor teljesítmény]]></Attribute_name>
@@ -11055,6 +11055,7 @@ Pulzusérzékelők: Markolatba épített és vezeték nélküli
 Felszereltség és általános adatok
 Összecsukhatóság: Tároláshoz összecsukható
 Szállítókerekek: Vannak
+Olajozó csatorna: Van
 Biztonsági rendszer: Automatikus leállítás
 Áramellátás: Hálózati áram
 Összeszerelés: Szükséges
@@ -12217,8 +12218,7 @@ Bruttó súly: 76 kg
 Egyéb
 Doboz tartalma: biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató.
 Garancia
-Váz garancia: 2 év
-Motor garancia</: 2 év]]></Description>
+Garancia: 2 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/T4500FN.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4500FN_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4500FN_altpic_2.jpg]]></ImageUrl3>
@@ -24080,8 +24080,8 @@ Teljes körű garancia: 3 év]]></Description>
 		<Name><![CDATA[Duke Fitness IR40 evezőpad]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Evezőgép]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/Duke-Fitness-IR40-evezopad]]></ProductUrl>
-		<Price>149900</Price>
-		<NetPrice>118031</NetPrice>
+		<Price>169900</Price>
+		<NetPrice>133780</NetPrice>
 		<ProductNumber><![CDATA[DU_IR40_2]]></ProductNumber>
 		<Description><![CDATA[Duke Fitness IR40 evezőpad – kompakt és hatékony otthoni edzéshez
 A Duke Fitness IR40 vízellenállásos evezőpad ideális választás otthoni használatra. Kompakt méreteinek köszönhetően kisebb helyiségekben is könnyen elfér, miközben a 10 literes víztartálynak köszönhetően valósághű evezési élményt biztosít. Az ellenállás 6 fokozatban állítható, így mindenki megtalálhatja a saját edzettségi szintjének megfelelő terhelést.
@@ -26031,8 +26031,8 @@ Teljes körű garancia: 2 év]]></Description>
 		<Name><![CDATA[Duke Fitness SC40 teremkerékpár]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/spd/SC40/Duke-Fitness-SC40-teremkerekpar]]></ProductUrl>
-		<Price>149900</Price>
-		<NetPrice>118031</NetPrice>
+		<Price>199900</Price>
+		<NetPrice>157402</NetPrice>
 		<ProductNumber><![CDATA[SC40]]></ProductNumber>
 		<Description><![CDATA[Duke Fitness SC40 teremkerékpár
 A Duke Fitness SC40 teremkerékpár stabil felépítésével, csendes szíjhajtásával és könnyen beállítható edzéspozíciójával támogatja a rendszeres otthoni kardióedzést. A manuálisan szabályozható mágneses ellenállás nyolc terhelési szintet kínál, a fix hajtás és a vészfékrendszer pedig az intenzívebb tekerésekhez is megfelelő alapot ad.
@@ -26113,10 +26113,11 @@ Teljes körű garancia: 2 év]]></Description>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/SC40_altpic_4.jpg]]></ImageUrl5>
 		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/SC40_altpic_5.jpg]]></ImageUrl6>
 		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/SC40_altpic_6.jpg]]></ImageUrl7>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
+		<Weight>36 kg</Weight>
 		<Warranty>24</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -32407,6 +32408,153 @@ Teljes körű garancia: 3 év]]></Description>
 		</Attributes>
 	</Product>
 	<Product>
+		<Identifier><![CDATA[BRX-R300ERGO]]></Identifier>
+		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
+		<Name><![CDATA[Toorx BRX-R 300 ERGO háttámlás szobakerékpár]]></Name>
+		<Category><![CDATA[Sport > Fitnesz > Szobakerékpár]]></Category>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-BRX-R-300-ERGO-hattamlas-szobakerekpar]]></ProductUrl>
+		<Price>322900</Price>
+		<NetPrice>254252</NetPrice>
+		<ProductNumber><![CDATA[BRX-R300ERGO]]></ProductNumber>
+		<Description><![CDATA[Toorx BRX-R 300 ERGO háttámlás szobakerékpár leírás
+A Toorx BRX-R 300 ERGO a Chrono Line felső kategóriás, háttámlás otthoni ergométere. Indukciós mágnesféke 32 elektronikusan szabályozható ellenállási szintet kínál, a 16 kg-os lendkerék pedig egyenletes, csendes pedálozást támogat. A masszív szerkezet legfeljebb 150 kg-os felhasználói testsúlyig használható.
+A könnyített beszállás, a vízszintesen állítható ülés és a széles, légáteresztő háttámla kényelmes, megtámasztott edzéspozíciót biztosít. A változatos programrendszert Watt- és pulzusvezérelt edzés, Recovery és Body Fat funkció egészíti ki, az App Ready 3.0 rendszer pedig az iConsole+ Training, a Kinomap és a Zwift alkalmazás használatát támogatja.
+Miért jó választás a Toorx BRX-R 300 ERGO?
+- Az indukciós mágnesfék pontosan és elektronikusan szabályozható 32 fokozatban.
+- A 16 kg-os lendkerék sima, kiegyensúlyozott hajtásérzetet biztosít.
+- A könnyített beszállás és a háttámlás ülés kényelmesebbé teszi a fel- és leszállást.
+- A vízszintesen állítható ülés különböző testmagasságokhoz igazítható.
+- A manuális, profil-, HRC- és Watt-programok többféle edzéscélhoz használhatók.
+- A Kinomap, a Zwift és az iConsole+ Training interaktívabbá teheti az edzést.
+- A pulzus markolati érzékelőkkel vagy kompatibilis vezeték nélküli mellkaspánttal követhető.
+- A stabil váz legfeljebb 150 kg-os felhasználói testsúlyig terhelhető.
+Kényelmes, megtámasztott edzéspozíció
+A háttámlás kialakítás stabilabb ülőhelyzetet kínál, mint egy hagyományos szobakerékpár. A széles, légáteresztő háttámla jól szellőzik, a nyereg pedig fokozatmentesen, vízszintes irányban igazítható a lábhosszhoz. Az alacsony, nyitott váz könnyebb beszállást tesz lehetővé, az ülés melletti kapaszkodók edzés közben is kényelmesen elérhetők.
+Indukciós ergométer 32 ellenállási szinttel
+Az indukciós mágnesféket a konzol elektronikusan vezérli, így a terhelés 32 fokozatban, finoman állítható. Az érintkezésmentes fékezés halk működést és csekély karbantartási igényt tesz lehetővé. A 16 kg-os lendkerék, a szíjhajtás és a háromrészes hajtókar egyenletes pedálmozgást biztosít könnyű átmozgatásnál és intenzívebb állóképességi edzésnél egyaránt.
+Programok teljesítmény- és pulzuscélokhoz
+A programrendszer manuális módot, Beginner, Advance és Sporty profilokat, Cardio és Watt edzést, Recovery kondíciótesztet, Body Fat funkciót, valamint négy pulzusvezérelt HRC programot kínál. A Watt-program a beállított teljesítmény megtartásához, a HRC programok pedig a mért pulzushoz igazítják automatikusan az ellenállást.
+Többszínű LCD-kijelző
+A háttérvilágítású, többszínű LCD-konzolon az idő, a távolság, a sebesség, a pedálfordulat, a kalóriafelhasználás, a pulzus és a teljesítmény követhető. A konzolhoz okostelefon- és táblagéptartó tartozik, így a mobileszköz edzés közben jól látható helyen tartható.
+App Ready 3.0 interaktív edzéshez
+A beépített Bluetooth-rendszer az iConsole+ Training, a Kinomap és a Zwift alkalmazással kompatibilis. A támogatott alkalmazások virtuális útvonalakkal, edzéstervekkel, statisztikákkal és közösségi kihívásokkal egészíthetik ki az otthoni edzést.
+Markolati és mellkaspántos pulzusmérés
+Az ülés melletti kapaszkodókba markolati pulzusérzékelők kerültek, a konzol pedig beépített vezeték nélküli vevővel fogadja a kompatibilis mellkaspánt jelét. A folyamatosabb méréshez és a HRC programok használatához külön megvásárolható mellkaspánt ajánlott.
+Praktikus és stabil kialakítás
+Az extra nagy, állítható pánttal ellátott pedálok biztos lábtartást adnak, az első szállítógörgők pedig megkönnyítik a gép áthelyezését. A stabil váz és az 57 kg-os nettó tömeg nyugodt edzéshelyzetet támogat, miközben a 150 kg-os maximális terhelhetőség széles felhasználói kört tesz lehetővé.
+A Toorx BRX-R 300 ERGO méretei és terhelhetősége
+- Maximális felhasználói testsúly: 150 kg.
+- Összeszerelt méret: 154,5 × 65 × 114 cm.
+- Nettó súly: 57 kg.
+- Bruttó súly: 64 kg.
+- Csomagolási méret: 154,5 × 31 × 65 cm.
+Műszaki adatok
+TERMÉK AZONOSÍTÁS
+Márka: Toorx
+Modellnév: BRX-R 300 ERGO
+Gyártói cikkszám: BRX-R300ERGO
+EAN: 8029975999135
+Modellsorozat: Chrono Line
+Típus: Háttámlás ergométer szobakerékpár
+Felhasználási kategória: Otthoni
+Megfelelőségek: CE, RoHS, EN957
+ELLENÁLLÁS & HAJTÁS
+Fékrendszer: Indukciós mágnesfék, elektronikus szabályozással
+Ellenállási szintek: 32 fokozat
+Lendkerék: 16 kg
+Meghajtás: Szíjhajtás
+Hajtókar: Háromrészes
+Ergométer / Watt-program: Van
+PROGRAMRENDSZER
+Manuális program: Van
+Profilprogramok: Beginner, Advance és Sporty
+Cardio program: Van
+HRC programok: 4
+Watt-program: Van
+Recovery kondícióteszt: Van
+Body Fat funkció: Van
+KIJELZŐ & KAPCSOLAT
+Kijelző: Többszínű háttérvilágítású LCD
+Kijelzett adatok: Idő, távolság, sebesség, kalória, pulzus, pedálfordulat (RPM), Watt
+Bluetooth: Van, App Ready 3.0
+Kompatibilis alkalmazások: iConsole+ Training, Kinomap, Zwift
+Okostelefon-/táblagéptartó: Van
+PULZUSMÉRÉS
+Markolati pulzusérzékelők: Vannak
+Vezeték nélküli pulzusvevő: Beépített
+Mellkaspánt: Nem tartozék, külön vásárolható
+KIALAKÍTÁS
+Beszállás: Könnyített, alacsony átlépéssel
+Ülésállítás: Fokozatmentes, vízszintes
+Háttámla: Széles, légáteresztő hálós kialakítás
+Pedálok: Extra nagy méret, állítható lábrögzítő pánttal
+Szállítógörgők: Vannak
+MÉRETEK & TERHELHETŐSÉG
+Maximális felhasználói testsúly: 150 kg
+Összeszerelt méret: 154,5 × 65 × 114 cm
+Csomagolási méret: 154,5 × 31 × 65 cm
+Nettó súly: 57 kg
+Bruttó súly: 64 kg
+GARANCIA
+Teljes körű garancia: 3 év]]></Description>
+		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/BRX-R300ERGO.jpg]]></ImageUrl>
+		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_1.jpg]]></ImageUrl2>
+		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_2.jpg]]></ImageUrl3>
+		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_3.jpg]]></ImageUrl4>
+		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_4.jpg]]></ImageUrl5>
+		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_5.jpg]]></ImageUrl6>
+		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_6.jpg]]></ImageUrl7>
+		<ImageUrl8><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_7.jpg]]></ImageUrl8>
+		<ImageUrl9><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_8.jpg]]></ImageUrl9>
+		<ImageUrl10><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/BRX-R300ERGO_altpic_9.jpg]]></ImageUrl10>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
+		<Oversize>0</Oversize>
+		<Weight>64 kg</Weight>
+		<Warranty>36</Warranty>
+		<BasketDisabled>0</BasketDisabled>
+		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
+		<Attributes>
+			<Attribute>
+				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
+				<Attribute_value><![CDATA[150 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
+				<Attribute_value><![CDATA[Elektromos/Mágnesfékes]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Lendkerék]]></Attribute_name>
+				<Attribute_value><![CDATA[16 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Fékrendszer]]></Attribute_name>
+				<Attribute_value><![CDATA[Permanens mágnes]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Típus]]></Attribute_name>
+				<Attribute_value><![CDATA[Háttámlás]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
+				<Attribute_value><![CDATA[32 fokozatú mágnesfék]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Súly]]></Attribute_name>
+				<Attribute_value><![CDATA[64 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
+				<Attribute_value><![CDATA[Professziónális/Otthoni]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
+				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+	<Product>
 		<Identifier><![CDATA[ERX-400]]></Identifier>
 		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
 		<Name><![CDATA[Toorx ERX-400 elliptikus tréner]]></Name>
@@ -38338,9 +38486,9 @@ Bruttó súly: 105 kg
 Egyéb
 Doboz tartalma: biztonsági kulcs, tápkábel, összeszereléshez szükséges csavarok, szerszámok, használati és összeszerelés útmutató.
 Garancia
-Váz garancia: 36 hónap/3 év
-Motor garancia: 36 hónap/3 év
-Teljes körű garancia: 36 hónap/3 év]]></Description>
+Váz garancia: 3 év
+Motor garancia: 3 év
+Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/T5500C.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T5500C_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T5500C_altpic_2.jpg]]></ImageUrl3>
@@ -47199,154 +47347,6 @@ Teljes körű garancia: 1 év]]></Description>
 		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[2686]]></Identifier>
-		<Manufacturer><![CDATA[Reebok]]></Manufacturer>
-		<Name><![CDATA[Reebok Gt40 s futópad]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/2686_futopad]]></ProductUrl>
-		<Price>199900</Price>
-		<NetPrice>157402</NetPrice>
-		<ProductNumber><![CDATA[2686]]></ProductNumber>
-		<Description><![CDATA[Reebok GT40s futópad
-A Reebok GT40s futópad Soft Tech Silicone csillapítási rendszerrel rendelkezik, amely a leírás szerint hat ponton segíti az ütéscsillapítást és az ízületek védelmét. A motorosan állítható dőlésszög futás közben, a konzolról vagy a kapaszkodóról is vezérelhető, legfeljebb 12%-ig. A sebesség 0,1 km/h-s lépésekben állítható, legfeljebb 16 km/h-ig. A futópad összecsukható, mozgatását az alján található kerekek segítik.
-A kék háttérvilágítású LCD-kijelzőn követhető a sebesség, a távolság, az idő, az aktuális program, a dőlésszög és az elégetett kalória. A kapaszkodóba épített pulzusmérő pulzusalapú edzésre is lehetőséget ad.
-Üzembe helyezés
-Az üzembe helyezés magában foglalja a termék ellenőrzését, a futószőnyeg beállítását, az első szilikonolajozást, a kiegészítők, pulzusérzékelők és hangszórók tesztelését, a gombok kipróbálását, valamint a motor és az emelőmotor ellenőrzését. Az összeszereléshez jó minőségű zsírt és hézagoló elemeket használunk, majd a terméket visszacsomagoljuk eredeti dobozába. Az összeszerelés díja 19 900 Ft.
-Műszaki adatok
-Termékazonosítás
-Márka: Reebok
-Modellnév: GT40 a táblázat szerint; a leírás GT40s-ként nevezi
-Cikkszám: 2686
-Szín: Fekete
-Típus: Motoros
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-Motor és sebesség
-Motor típusa: DC
-Motor folyamatos teljesítménye: 2 LE a leírás szerint; 3,0 egységmegjelölés nélkül a táblázatban
-Motor csúcsteljesítménye: 3 LE
-Minimális sebesség: 0,8 km/h
-Maximális sebesség: 16 km/h
-Sebességállítás léptéke: 0,1 km/h
-Ajánlott maximális üzemidő: 1 óra használat, utána 3 óra pihentetés
-Futófelület és mechanika
-Futófelület mérete: 134 × 44 cm
-Futószalag vastagsága: 1,6 mm
-Ízületkímélő rendszer: Soft Tech Silicone, hatpontos rezgéscsillapítással; a táblázat fejlett rendszerként jelöli
-Dőlésszög állítása: Motoros, kapaszkodóról és gyorsgombokkal vezérelhető
-Maximális dőlésszög: 12%
-Összecsukhatóság: Összecsukható
-Leengedési rendszer: Soft Drop
-Programrendszer és mérés
-Programok száma: 49 a táblázat szerint; a részletes leírás 1 manuális, 36 előre beállított és 3 célprogramot sorol fel
-Célprogramok: Idő, távolság, kalória
-Testzsírmérés: Van
-Szünet funkció: Igen
-Gyorsindítás: Van
-Sebesség-gyorsgombok: Vannak
-Dőlésszög-gyorsgombok: Vannak
-Kézi vezérlés: Van
-Pulzusmérés: Van
-Mellkasi öv vevő: Van
-Mellkasi öv tartozék: Nem
-Kijelző és kapcsolat
-Kijelző típusa: LCD
-Kijelző mérete: 115 × 65 mm a leírás szerint
-Háttérvilágítás: Kék a leírás szerint
-Színes kijelző: A leírás kék háttérvilágítást említ; a táblázat szerint nem színes
-Okos kijelző: Nincs
-Érintőképernyő: Nincs
-Kijelzett adatok: Pulzus, kalória, távolság, idő, sebesség és dőlésszög
-Bluetooth: Nincs megadva a táblázatban
-Wi-Fi: Nincs
-Audio bemenet: Van
-Hangszóró: Van
-Alkalmazás-kompatibilitás: Nincs megadva a forrásban
-Biztonság és kialakítás
-Szállítókerekek: Vannak
-Szintezés: Nincs
-Biztonsági kulcs: Van
-Hangulatvilágítás: Nincs
-Zajszint: Csendes
-Gyaloglásra alkalmas: Igen
-Felhasználási szint: Haladó
-Méretek, tömeg és garancia
-Maximális felhasználói testsúly: 110 kg
-Összeszerelt méret: 168 × 76 × 133 cm
-Összecsukott méret: 104 × 76 × 148 cm
-Nettó tömeg: 75 kg
-Bruttó tömeg: 87 kg
-Garancia: 12 hónap
-Összeszerelés és üzembe helyezés: 19 900 Ft]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/2686.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/2686_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/2686_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/2686_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/2686_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/2686_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>NO</DeliveryTime>
-		<Oversize>0</Oversize>
-		<Weight>75 kg</Weight>
-		<Warranty>12</Warranty>
-		<BasketDisabled>1</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[110 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Max terhelhetőség]]></Attribute_name>
-				<Attribute_value><![CDATA[110 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
-				<Attribute_value><![CDATA[134x44 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Motor teljesítmény]]></Attribute_name>
-				<Attribute_value><![CDATA[3 LE]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
-				<Attribute_value><![CDATA[12% elektromos dőlésszög]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Végsebesség]]></Attribute_name>
-				<Attribute_value><![CDATA[16 km/h]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
-				<Attribute_value><![CDATA[36 program]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[75 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
-				<Attribute_value><![CDATA[Nincs]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[Otthoni-Családi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület szélessége]]></Attribute_name>
-				<Attribute_value><![CDATA[44 cm]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Futófelület hossza]]></Attribute_name>
-				<Attribute_value><![CDATA[134 cm]]></Attribute_value>
-			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
 				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
