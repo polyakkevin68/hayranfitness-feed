@@ -100,11 +100,13 @@ Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/GHN075.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN075_altpic_1.jpg]]></ImageUrl2>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>110 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -9769,11 +9771,13 @@ Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN10480_tft_altpic_2.jpg]]></ImageUrl3>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN10480_tft_altpic_3.jpg]]></ImageUrl4>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN10480_tft_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>85 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -9942,11 +9946,13 @@ Motor garancia: 3 év
 Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/GHN10480_led.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/GHN10480_led_altpic_1.jpg]]></ImageUrl2>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
+		<FreeDelivery>1</FreeDelivery>
 		<Oversize>0</Oversize>
 		<Weight>85 kg</Weight>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
