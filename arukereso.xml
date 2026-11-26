@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Products>
 	<Product>
+		<Identifier><![CDATA[OSC4]]></Identifier>
+		<Manufacturer><![CDATA[Orion]]></Manufacturer>
+		<Name><![CDATA[Orion Sprint C4 futópad]]></Name>
+		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
+		<ProductUrl><![CDATA[https://futopadoutlet.hu/Orion-Sprint-C4-futopad]]></ProductUrl>
+		<Price>149900</Price>
+		<NetPrice>118031</NetPrice>
+		<ProductNumber><![CDATA[OSC4]]></ProductNumber>
+		<Description><![CDATA[Orion Sprint C4 elektromos futópad
+Otthoni használatra
+Motor: 3 le
+Sebesség: 0.8-15 km/h
+Automatikus dőlés: 15 szint
+A futófelület mérete: 130*45 cm
+A termék súlya: 84 kg
+A felhasználó maximálisan megengedett tömege: 130 kg
+Kék fénnyel működő LED
+Számítógép funkciók: Idő, Sebesség, Távolság, Kalóriák, Pulzus
+Előprogramozott módok: 12
+Kézi mód: 1
+Termék mérete: 180 x 75 x 140 cm
+Kézi irányítású szívritmus szenzor
+Hengeres összecsukó rendszer
+Automatikus, lassú szétnyitás a henger hidraulikus rendszerének köszönhetően
+Futás közben fellépő sokkhatások csökkentésére szolgáló csillapító rendszer
+Rugalmas csillapító párnák
+Biztonsági kulcs funkció - mágneses kulcs, mely egyensúlyvesztés esetén lehetővé teszi a futópad azonnali leállítását
+Egyszerű és csendes működést biztosító rendszer
+Kerekek az egyszerű mozgathatóság érdekében
+A dobozban 95%-os mértékben összerakva
+Sebesség kiválasztását szolgáló gyorsbillentyűk
+Dőlésszög kiválasztását szolgáló gyorsbillentyűk
+Sebességszabályzó gombok a fogantyún
+A futófelület automatikus kenését biztosító rendszer]]></Description>
+		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/OSC4.jpg]]></ImageUrl>
+		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/OSC4_altpic_1.jpg]]></ImageUrl2>
+		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/OSC4_altpic_2.jpg]]></ImageUrl3>
+		<DeliveryTime>4 munkanap</DeliveryTime>
+		<Oversize>0</Oversize>
+		<Weight>84 kg</Weight>
+		<Warranty>12</Warranty>
+		<BasketDisabled>0</BasketDisabled>
+		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
+		<Attributes>
+			<Attribute>
+				<Attribute_name><![CDATA[Hivatalos importőr]]></Attribute_name>
+				<Attribute_value><![CDATA[Hayranfitness Kft.]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
+				<Attribute_value><![CDATA[110 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Futófelület mérete]]></Attribute_name>
+				<Attribute_value><![CDATA[130 x 45 cm]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Motor teljesítmény]]></Attribute_name>
+				<Attribute_value><![CDATA[3 LE]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Dőlésszög]]></Attribute_name>
+				<Attribute_value><![CDATA[15]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Végsebesség]]></Attribute_name>
+				<Attribute_value><![CDATA[15 km/h]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Programok száma]]></Attribute_name>
+				<Attribute_value><![CDATA[12]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Súly]]></Attribute_name>
+				<Attribute_value><![CDATA[84 kg]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Telefon - táblagéptartó van?]]></Attribute_name>
+				<Attribute_value><![CDATA[Van]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[Méret]]></Attribute_name>
+				<Attribute_value><![CDATA[180 x 75 x 140 cm]]></Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
+				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+	<Product>
 		<Identifier><![CDATA[GHN075]]></Identifier>
 		<Manufacturer><![CDATA[Marshal Fitness]]></Manufacturer>
 		<Name><![CDATA[Marshal GHN075 futópad]]></Name>
@@ -483,8 +574,8 @@ Elemek a csomagban: Igen]]></Description>
 		<Name><![CDATA[HC Home Fitness 4800 futópad]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Fitness-T4800F-futopad]]></ProductUrl>
-		<Price>399900</Price>
-		<NetPrice>314882</NetPrice>
+		<Price>599900</Price>
+		<NetPrice>472362</NetPrice>
 		<ProductNumber><![CDATA[T4800F]]></ProductNumber>
 		<Description><![CDATA[A termék januárban érkezik!
 Műszaki adatok
@@ -572,10 +663,10 @@ Teljes körű garancia: 3 év]]></Description>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4800F_altpic_2.jpg]]></ImageUrl3>
 		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4800F_altpic_3.jpg]]></ImageUrl4>
 		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/T4800F_altpic_4.jpg]]></ImageUrl5>
-		<DeliveryTime>NO</DeliveryTime>
+		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Warranty>36</Warranty>
-		<BasketDisabled>1</BasketDisabled>
+		<BasketDisabled>0</BasketDisabled>
 		<MaxCPCMultiplier>BIDx1</MaxCPCMultiplier>
 		<Attributes>
 			<Attribute>
@@ -11603,8 +11694,8 @@ Teljes körű garancia: 3 év]]></Description>
 		<Name><![CDATA[HC Home Fitness T3 Futópad]]></Name>
 		<Category><![CDATA[Sport > Fitnesz > Futópad]]></Category>
 		<ProductUrl><![CDATA[https://futopadoutlet.hu/HC-Home-Fitness-T3-Futopad]]></ProductUrl>
-		<Price>249900</Price>
-		<NetPrice>196772</NetPrice>
+		<Price>299900</Price>
+		<NetPrice>236142</NetPrice>
 		<ProductNumber><![CDATA[YP-M5745]]></ProductNumber>
 		<EanCode>5999579690383</EanCode>
 		<Description><![CDATA[Műszaki adatok
@@ -17357,6 +17448,10 @@ Bruttó súly: 144 kg]]></Description>
 		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/LD6001.jpg]]></ImageUrl>
 		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_1.jpg]]></ImageUrl2>
 		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_2.jpg]]></ImageUrl3>
+		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_3.jpg]]></ImageUrl4>
+		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_4.jpg]]></ImageUrl5>
+		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_5.jpg]]></ImageUrl6>
+		<ImageUrl7><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/LD6001_altpic_6.jpg]]></ImageUrl7>
 		<DeliveryTime>4 munkanap</DeliveryTime>
 		<Oversize>0</Oversize>
 		<Weight>216 kg</Weight>
@@ -23773,158 +23868,6 @@ Teljes körű garancia: 3 év]]></Description>
 			<Attribute>
 				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
 				<Attribute_value><![CDATA[Otthoni-Családi]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
-				<Attribute_value><![CDATA[BIDx15]]></Attribute_value>
-			</Attribute>
-		</Attributes>
-	</Product>
-	<Product>
-		<Identifier><![CDATA[RWX_700]]></Identifier>
-		<Manufacturer><![CDATA[Toorx]]></Manufacturer>
-		<Name><![CDATA[Toorx RWX-700 evezőgép]]></Name>
-		<Category><![CDATA[Sport > Fitnesz > Evezőgép]]></Category>
-		<ProductUrl><![CDATA[https://futopadoutlet.hu/Toorx-RWX-700-evezogep]]></ProductUrl>
-		<Price>322900</Price>
-		<NetPrice>254252</NetPrice>
-		<ProductNumber><![CDATA[RWX_700]]></ProductNumber>
-		<Description><![CDATA[Toorx RWX-700 evezőgép leírás
-A Toorx RWX-700 evezőpad a gyártó legmagasabb minőségű Chronoline szériájának a csúcs tagja. Exkluzív műszaki megoldásokkal, modern külsővel és masszív technikai jellemzőkkel rendelkezik, ezért a legintenzívebb otthoni és könnyű közösségi használatra is alkalmas evezőgép modell. Az RWX-700 mostantól alkalmazás-kompatibilis az új számítógépének köszönhetően, amely lehetővé teszi a Kinomap alkalmazásban a számos vízi útvonalon való evezést. Emellett extra nagy, kék háttérvilágítású kijelzővel rendelkezik az edzésadatok jobb olvashatósága érdekében, valamint egy praktikus, integrált tablettartóval.
-Hogyan támogatja az otthoni edzést a Toorx RWX-700 evezőgép modell?
-Az evezéssel az egyik legmagasabb kalóriaégetés érhető el rövid idő alatt.
-- A Toorx RWX-700 evezős ergométert úgy tervezték, hogy a vizen történő evezéshez a lehető legjobban hasonlítson a rajta végzett edzés.
-- Az evezőgép akár 200 cm testmagassággal is jól használható.
-- A Toorx evezőgép mágnesfék+légellenállású fékrendszerének terhelésállítását 16 fokozatban, elektonikusan végezhetjük.
-- Masszívitása, megbízhatósága miatt az RWX-700 150 kg maximális terhelhetőséggel és három év teljeskörű garanciával rendelkezik.
-- A Toorx evezőpadok új csúcstípusa gyönyörű külsővel, és megbízható szerkezettel rendelkezik.
-- A Toorx RWX-700 evezőgép tökéletes fitneszgép, amelyel nem csak az állóképességét javíthatja, hanem izmait is formálhatja.
-- Az evezőpad elektromágneses fékrendszere lehetővé teszi a teljesítmény Watt alapú mérését.
-- Az evezőgép húzóköteles hajtása tökéletesen szimulálja a szimetrikus, professzionális evezős mozgást.
-- A Toorx RWX-700 evezőgép evezőpad 21 edzésprogramja, 16 kijelzőről vezérelhető ellenállási fokozata élvezetes edzéseket biztosít.
-- Használható a Kinomap alkalmazással.
-- A Toorx RWX-700 evezőpad segítségével minden izmot hatékony módon átmozgathat.
-- A Toorx evezőgép kényelméről az ergonómikus zselés ülés, míg a biztonságos edzésről a beépített pulzus jeladó, és a pulzusvezérelt edzésprogram gondoskodik (mellkasövvel kompatibilis).
-- Az evezőpad LCD kijelzője nagyszerűen olvasható és felhasználó barát.
-- Okostelefon / táblagép tartó résszel rendelkezik a Toorx RWX-700 evezőgép.
-Használat végeztével a Toorx RWX-700 evezőpad egyszerűen összecsukható, a szállítókerekek segítségével könnyen mozgatható. Legyen velünk fitt. Kérdése esetén keresse kollégánkat bizalommal.
-A Toorx RWX-700 evezőgép műszaki tulajdonságai
-- LCD kijelzőn megjelenített adatok: Idő, idő/500 méter, távolság, sebesség, csapások/perc, kalóriafelhasználás, Watt, pulzusszám.
-- i-Console: Interaktív edzéslehetőségek valósághú útvonal paraméterek alapján. Töltse le a Kinomap applikációt, és fedezze fel az interaktív edzésélményt. Az edzés soha nem volt ennyire izgalmas, a videó sebessége szinkronban van az Ön ritmusával. Készen áll a kezdéshez? Fedezze fel a világot, hasonlítsa össze és ossza meg élményeit másokkal. A Toorx RWX-700 evezőgép kompatibilis az iOS és Android okostelefonok és tablet készülékekkel Bluetooth vezeték nélküli technológián keresztül.
-- Fékrendszer: Mágnesfék + légellenállás (motoros terhelésállítás 16 fokozatban). Precíz, megbízható és gondozásmentes fékrendszer.
-- Edzésprogramok száma: 21 (12 előre telepített, 4 felhasználói, 4 pulzusvezérelt, 1 verseny program)
-- Lendkerék tömege: 9 kg
-- Meghajtó rendszer: Huzalmeghajtás.
-- Pulzusmérés: Mellkasövi jeladóval, ami külön rendelhető.
-- Ergonómikus ülés, halk görgőkkel: Az evezőpad kényelmes és halk mozgást eredményez, így lesz az edzés komfortos.
-- Csúszásmentes padlóbiztosító: Intenzív felhasználás mellett is stabilan marad az evezőgép, és a padlót is kíméli.
-- Összecsukható: az evezőgép használat után könnyen összecsukható, így kis helyen is elfér.
-- A felhasználó maximális testtömege: 150 kg
-- A Toorx RWX-700 evezőgép önsúlya: 46 kg
-- A Toorx RWX-700 evezőgép összeszerelt mérete: 247x57x112 cm
-- Evezőgép zárt mérete: 127x57x192 cm
-- Garancia: 3 év.
-Műszaki adatok
-Toorx RWX-700 evezőgép tulajdonságok
-Cikkszám: RWX-700
-Gyártó: Toorx
-Típus: RWX-700
-Felhasználás módja: Félprofesszionális
-Teherbírás: 150
-Hajtásmód: Huzal
-Lendkerék súlya: 9 kg
-Fékrendszer típusa: Mágnesfék + légellenállás
-Ellenállási fokozatok: 16
-Edzésprogramok: 21
-Kijelző típusa: LCD
-Pulzusmérés: Mellkasövi pulzusmérővel ami külön rendelhető.
-Extra funkciók: Összecsukható, kinomap
-Tápellátás: 230 V V
-Méretek: 247x57x112 cm
-Súly: 46 kg
-Garancia: 36 hónap
-TERMÉK AZONOSÍTÁS
-Márka: Toorx
-Modellnév: RWX-700
-Cikkszám: RWX_700
-Szín: ----
-Felhasználási kategória: Otthoni
-EN957 besorolás: Van
-Tanúsítványok: TÜV, GS, ROHS, CE
-ELLENÁLLÁS & TELJESÍTMÉNY
-Fékrendszer: Huzal
-Ellenállási szintek: 16 fokozat
-Ellenállás állítás: ----
-SÍN HOSSZA & ENERGIAELLTS
-Sín hossza: ----
-Tápellátás: Elemmel működő
-MÉRÉSI FUNKCIÓ
-Mellkasi öv vevő: Van
-KIJELZŐ & PROGRAMRENDSZER
-Kijelző típusa: LCD
-Kijelző méret: ----
-Dönthető képernyő: Nem
-Érintőképernyő: Nem
-Kijelzett adatok: ----
-Beépített programok száma összesen: ----
-MULTIMÉDIA & KAPCSOLAT
-Bluetooth: Nincs
-Tablet/Okostelefon tartó: Nincs
-Applikáció kompatibilitás: Nincs
-KIALAKÍTS
-Összecsukható: Igen, összecsukható
-Szállítókerekek: Van
-Szintezés: Van
-Zajszint: Nagyon halk
-TERHELHETSÉG & AJNLS
-Maximális felhasználói testsúly: 150 kg
-Felhasználói magasság: ----
-MÉRETEK & SÚLY
-Méret (összeszerelve): 247 x 57 x 112 cm
-Méret (összecsukva): ----
-Csomagolási méret: ----
-Nettó súly: 46 kg
-Bruttó súly: ----
-GARANCIA
-Teljes körű garancia: 3 év]]></Description>
-		<ImageUrl><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_pic/RWX_700.jpg]]></ImageUrl>
-		<ImageUrl2><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/RWX_700_altpic_1.jpg]]></ImageUrl2>
-		<ImageUrl3><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/RWX_700_altpic_2.jpg]]></ImageUrl3>
-		<ImageUrl4><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/RWX_700_altpic_3.jpg]]></ImageUrl4>
-		<ImageUrl5><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/RWX_700_altpic_4.jpg]]></ImageUrl5>
-		<ImageUrl6><![CDATA[https://futopadoutlet.hu/shop_ordered/78016/shop_altpic/RWX_700_altpic_5.jpg]]></ImageUrl6>
-		<DeliveryTime>4 munkanap</DeliveryTime>
-		<DeliveryCost><![CDATA[ingyenes]]></DeliveryCost>
-		<FreeDelivery>1</FreeDelivery>
-		<Oversize>0</Oversize>
-		<Weight>46 kg</Weight>
-		<Warranty>36</Warranty>
-		<BasketDisabled>0</BasketDisabled>
-		<MaxCPCMultiplier>BIDx15</MaxCPCMultiplier>
-		<Attributes>
-			<Attribute>
-				<Attribute_name><![CDATA[Teherbírás]]></Attribute_name>
-				<Attribute_value><![CDATA[150 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási rendszer típusa]]></Attribute_name>
-				<Attribute_value><![CDATA[Dual légellenállású+mágneses]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Fékrendszer]]></Attribute_name>
-				<Attribute_value><![CDATA[Mágnes + Légellenállás]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Ellenállási fokozatok]]></Attribute_name>
-				<Attribute_value><![CDATA[16 fokozat]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Súly]]></Attribute_name>
-				<Attribute_value><![CDATA[46 kg]]></Attribute_value>
-			</Attribute>
-			<Attribute>
-				<Attribute_name><![CDATA[Felhasználás módja]]></Attribute_name>
-				<Attribute_value><![CDATA[OTTHONI]]></Attribute_value>
 			</Attribute>
 			<Attribute>
 				<Attribute_name><![CDATA[MaxCPCMultiplier]]></Attribute_name>
